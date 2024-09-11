@@ -1,0 +1,90 @@
+ilo-000-000 pʰ i k o
+ilo-000-001 l ɑ pʰ i t
+ilo-000-002 n ɛ p n ɛ p
+ilo-000-003 b i k o
+ilo-000-004 l ɑ b i t
+ilo-000-005 n ɛ b n ɛ b
+ilo-000-006 t ɑ q̠ ɑ
+ilo-000-007 s ɑ l tʰ ɑ
+ilo-000-008 s ɑ q̠ ɑ t
+ilo-000-009 d ɑ q̠ ɑ
+ilo-000-010 s ɑ l d ɑ
+ilo-000-011 s ɑ q̠ ɑ d
+ilo-000-012 k u r ɑ
+ilo-000-013 b u k ɑ r
+ilo-000-014 i r i k
+ilo-000-015 q̠ u r ɑ
+ilo-000-016 b u q̠ ɑ s
+ilo-000-017 i r i q̠
+ilo-000-018 ʔ i d͡ʒ ɑ ɪ
+ilo-000-019 ɑ l ʔ o
+ilo-000-020 q̠ ɑ m ʔ u d
+ilo-000-021 q̠ ɑ m u d
+ilo-000-022 k i t i k
+ilo-000-023 ʔ i t i k
+ilo-000-024 i t l o q̠
+ilo-000-025 i ʔ l o q̠
+ilo-000-026 s ɑ l ɯ q̠
+ilo-000-027 s ɛ lː ɛ p
+ilo-000-028 s i l i
+ilo-000-030 s u l i t
+ilo-000-031 r ɑ s ɑ
+ilo-000-032 r ɑ s i
+ilo-000-033 r ɑ p ɑ s
+ilo-000-034 r ɑ p i s
+ilo-000-035 m ɑ t ɑ
+ilo-000-036 l ɑ m ɑ ɯ
+ilo-000-037 n ɑ m ɑ n
+ilo-000-038 l ɑ n ɑ
+ilo-000-039 s ɑ r t i n
+ilo-000-040 ŋ ɑ t ɑ
+ilo-000-041 l ɑ ŋ ɑ
+ilo-000-042 s ɑ r m i ŋ
+ilo-000-043 ŋ ɑ ŋ ɑ
+ilo-000-044 l ɑ m b o ŋ
+ilo-000-045 l ɑ m p o ŋ
+ilo-000-046 l ɑ ŋ k a
+ilo-000-047 s ɑ ŋ k a
+ilo-000-048 l ɑ ŋ q̠ o n
+ilo-000-049 s ɑ ŋ q̠ ɑ
+ilo-000-050 r ɑ b ɛ r
+ilo-000-051 s ɑ r i
+ilo-000-052 j ɑ q̠ j ɑ q̠
+ilo-000-053 n ɑ ɪ n ɑ ɪ
+ilo-000-054 pʰ ɑ q̠ ɑ ɪ
+ilo-000-055 w ɑ q̠ w ɑ q̠
+ilo-000-056 n ɑ ɯ n ɑ ɯ
+ilo-000-057 p ɑ q̠ ɑ ɯ
+ilo-000-058 l i d ɑ ɪ
+ilo-000-059 s ɑ l i
+ilo-000-060 p ɑ r o lː
+ilo-000-061 ɑ p o
+ilo-000-062 ɑ p o
+ilo-000-063 r ɑ m ɑ n
+ilo-000-064 r ɑ m ɑ n
+ilo-000-065 i n ɑ
+ilo-000-066 i n ɑ
+ilo-000-068 n i ʔ
+ilo-000-069 u r d ɛ n
+ilo-000-071 s i k ɑ
+ilo-000-072 n ɑ
+ilo-000-073 u r o t
+ilo-000-074 n o
+ilo-000-077 d ɑ n i u
+ilo-000-078 k i s i u
+ilo-000-079 u p ɑ ɪ
+ilo-000-080 m e ɪ s ɑ
+ilo-000-081 k w ɑ
+ilo-000-082 t ɑ o
+ilo-000-083 b ɑ o
+ilo-000-084 p ɑ i d
+ilo-000-085 k u ɑ
+ilo-000-086 i j ɛ q̠
+ilo-000-087 i j u p ɛ r
+ilo-000-089 i j i n u m
+ilo-000-090 i j o t
+ilo-000-092 t ɑ p k i lː
+ilo-000-093 p ɑ r m ɛ k
+ilo-000-094 p ɑ k m ɛ r
+ilo-000-095 s o r ŋ q̠ i
+ilo-000-096 r o s ŋ q̠ i

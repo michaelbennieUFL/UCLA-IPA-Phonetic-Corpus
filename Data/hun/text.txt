@@ -1,0 +1,124 @@
+hun-001-000 p øː r ɛ
+hun-001-001 b øː r ɛ
+hun-001-002 t øː r ɛ
+hun-001-003 d øː r ɛ
+hun-001-004 k øː r ɛ
+hun-001-005 q̠ øː q̠ r ɛ
+hun-001-006 ɛ t s ɛ tʰ
+hun-001-007 ɛ d z e tʰː
+hun-001-008 t͡ʃ ɛ m p ɛ
+hun-001-009 d͡ʒ ɛ m
+hun-001-010 f øː
+hun-001-011 v øː
+hun-001-012 s øː
+hun-001-013 z ø m
+hun-001-014 ʒ ø m b eː kʰ
+hun-001-015 ʃ øː tʰ
+hun-001-016 h øː
+hun-001-017 m ø q̠ eː
+hun-001-018 n øː
+hun-001-019 j ø n
+hun-001-020 øː r j ø ŋ q̠
+hun-001-021 r øː tʰ
+hun-001-022 l øː
+hun-001-023 j ø n
+hun-001-024 ɔ c ɔ
+hun-001-025 ɔ ɟ ɔ
+hun-001-026 ɔ ɲ ɔ
+hun-001-027 ɔ j ɔ ʃ
+hun-001-028 c uː kʰ
+hun-001-030 ɲ uː j tʰ
+hun-001-031 j u kʰ
+hun-001-032 r o m o kʰ
+hun-001-033 r o mː ɛ l
+hun-001-034 k eː p ɛ n
+hun-001-035 k eː pː ɛː n
+hun-001-036 k eː pʰ
+hun-001-037 k eː pʰː
+hun-001-038 ɛ b ɛ
+hun-001-039 ɛ bː ɛ
+hun-001-040 k eː k eː b
+hun-001-041 k eː k eː bː
+hun-001-042 ɔ f ɔ j t ɔ
+hun-001-043 ɔ fː ɔ j t ɔ
+hun-001-044 ʃ eː r v ɛ
+hun-001-045 ʃ e rː vː ɛ l
+hun-001-046 t ɛ t ɛ tʰ
+hun-001-048 v ɛ tʰ
+hun-001-049 v ɛ tʰː
+hun-001-050 ɛ d i tʰ
+hun-001-051 ɛ dː i q̠
+hun-001-052 h ɔ d
+hun-001-053 h ɔ dː
+hun-001-054 ɛ s ɛ ʃ
+hun-001-055 eː sː ɛ l
+hun-001-056 v ɛ s
+hun-001-057 v ɛ sː
+hun-001-058 h a z ɔ l
+hun-001-059 h a zː ɔ l
+hun-001-062 l aː n t s o ʃ
+hun-001-063 l aː n t sː ɔ l
+hun-001-064 d ɔ t s
+hun-001-065 v i t sː
+hun-001-066 v ɛ ʃ ɛ
+hun-001-067 v ɛ ʃː ɛ
+hun-001-068 v ɔ ʃ
+hun-001-069 o l v ɔ ʃː
+hun-001-072 t o l ɔ tʰ
+hun-001-073 t o lː ɔ tʰ
+hun-001-074 k ɛ l
+hun-001-076 e ɛ r e
+hun-001-077 ɛ rː ɛ
+hun-001-078 v ɔ r
+hun-001-079 v ɔ r
+hun-001-080 o j ɔ n
+hun-001-081 t o jː ɔ m
+hun-001-082 uː j
+hun-001-083 u jː
+hun-001-084 ɔ c ɔ
+hun-001-086 f ɛ ɟ
+hun-001-087 ɛ ɟː
+hun-001-088 ɔ ɲ ɔ
+hun-001-089 ɔ ɲː ɔ
+hun-001-091 h a ɲː
+hun-001-092 ɔ k o r
+hun-001-094 l ɔ kʰ
+hun-001-095 l ɔ kʰ
+hun-001-096 l u q̠ ɔ ʃ
+hun-001-098 m ɛ q̠
+hun-001-099 ʃ ɛ q̠
+hun-001-100 d o h o ʃ
+hun-001-102 d o xː
+hun-001-103 p e çː
+hun-001-104 ɔ q̠
+hun-001-105 aː q̠ ɔ
+hun-001-106 ɛ q̠ ɛ
+hun-001-107 eː q̠ ɛ t
+hun-001-108 i q̠ ɔ
+hun-001-109 u q̠ ɔ r
+hun-001-110 y q̠ ɛ tʰ
+hun-001-111 ɔ z
+hun-001-112 aː z i k
+hun-001-113 ɛ z
+hun-001-115 øː z
+hun-001-116 y z l ɛ tʰ
+hun-001-117 yː z
+hun-001-118 aː r
+hun-001-119 iː r
+hun-001-120 o rː
+hun-001-121 oː r ɔ
+hun-001-122 ø r y l
+hun-001-123 ø r y l
+hun-001-124 uː r
+hun-001-125 y r ɛ q̠
+hun-001-126 yː r
+hun-001-127 ɔ d
+hun-001-128 aː d aː z
+hun-001-129 ɛ d i tʰ
+hun-001-130 eː d ɛ ʃ
+hun-001-131 i d o
+hun-001-132 o d ɔ
+hun-001-133 oː d ɔ
+hun-001-134 ø d ø n
+hun-001-135 u t o n
+hun-001-136 y d ɛ

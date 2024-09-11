@@ -1,0 +1,107 @@
+fin-002-000 p u o l a
+fin-002-001 t u o
+fin-002-002 k u o v i
+fin-002-003 s u o
+fin-002-004 v u o
+fin-002-005 h u o m e n
+fin-002-006 m u o n a
+fin-002-007 n u o
+fin-002-008 l u o
+fin-002-009 r u o k o
+fin-002-010 j u o
+fin-002-011 k a d o n
+fin-002-012 k a t o n
+fin-002-013 k o ŋ i n
+fin-002-014 k o n i n
+fin-002-015 i l o
+fin-002-016 e l o
+fin-002-017 l
+fin-002-018 ø l j y
+fin-002-019 y l i
+fin-002-020 a l a
+fin-002-021 o l o
+fin-002-022 u l o s
+fin-002-023 k e i d e n
+fin-002-024 t i t
+fin-002-025 k u i d e n
+fin-002-026 k a i r a n
+fin-002-027 k o i r a n
+fin-002-028 t ø i t
+fin-002-030 k a u r a n
+fin-002-031 k o u r i n
+fin-002-032 k e u l a
+fin-002-033 k i u r u
+fin-002-034 k y d e n
+fin-002-035 k ø y d e n
+fin-002-037 t y ø t
+fin-002-038 k u o r i n
+fin-002-039 l u p a
+fin-002-041 a i t a
+fin-002-042 a i tː a
+fin-002-043 l a k i
+fin-002-045 k i s a
+fin-002-046 k i sː a
+fin-002-047 r i m aː
+fin-002-048 r i mː aː
+fin-002-049 k a n a
+fin-002-050 k a nː a
+fin-002-051 t u l i
+fin-002-052 t u lː i
+fin-002-053 p a r u
+fin-002-054 p a rː u
+fin-002-055 m a j a
+fin-002-056 m a jː a
+fin-002-057 t i l i
+fin-002-058 t iː l i
+fin-002-059 e t u
+fin-002-060 eː t u
+fin-002-061 h d n
+fin-002-062 h d n
+fin-002-063 h t ø n
+fin-002-064 h t øː n
+fin-002-065 k y n
+fin-002-066 k yː n
+fin-002-067 a r i
+fin-002-068 aː r i
+fin-002-069 t a l o n
+fin-002-070 t a l oː n
+fin-002-071 t u l i
+fin-002-072 t uː l i
+fin-002-073 t u l e
+fin-002-074 t uː l e
+fin-002-075 t uː lː e
+fin-002-078 t u lː eː
+fin-002-079 t u lː e
+fin-002-080 t uː lː eː
+fin-002-081 h a k a
+fin-002-083 p uː
+fin-002-084 p yː
+fin-002-085 s u o d a
+fin-002-086 s y ø d
+fin-002-087 t i ŋ i n
+fin-002-088 h a ŋ a n
+fin-002-089 h o ŋ o n
+fin-002-091 a k a n
+fin-002-093 m y ø s
+fin-002-094 s u o m i
+fin-002-096 l uː sː a
+fin-002-097 v i lː e
+fin-002-098 p u lː o
+fin-002-099 k u l t a
+fin-002-100 l u e n
+fin-002-101 o n k i n
+fin-002-102 o m p a
+fin-002-103 i n f i n i t iː v i
+fin-002-104 t a l o n v k i
+fin-002-105 j a n a
+fin-002-107 r a h a
+fin-002-109 p e h m e
+fin-002-112 t u h t o
+fin-002-113 m e i d æ n
+fin-002-115 h o ŋ k o
+fin-002-118 r uː a n
+fin-002-120 k a u h e a
+fin-002-121 t a l o a
+fin-002-122 t æ r k e æ
+fin-002-124 k a t u m a tː o m a s t a
+fin-002-125 r a v i n t o l aː n

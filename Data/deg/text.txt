@@ -1,0 +1,39 @@
+deg-004-000 m i d e r
+deg-004-001 m u d e r ə
+deg-004-002 m o d e r ə
+deg-004-003 m e d e r ə
+deg-004-004 m ə d e r ə
+deg-004-005 m i i t u l
+deg-004-006 m u t u l ə
+deg-004-007 m o t u l ə
+deg-004-008 m e t u l ə
+deg-004-009 m ə t u l ə
+deg-004-010 m i i d a
+deg-004-011 m ʊ d a
+deg-004-012 m ɔ d a
+deg-004-013 m ɛ d a
+deg-004-014 m a d a
+deg-004-015 m i i t a
+deg-004-016 m ʊ t a
+deg-004-017 m ɔ t a
+deg-004-018 m ɛ t a
+deg-004-019 m a t a
+deg-004-020 ʊ m ɛ m i i d e r
+deg-004-021 ʊ w ɔ m u d e r ə
+deg-004-022 ɔ j i m o d e r ə
+deg-004-023 e n i m e d e r ə
+deg-004-024 ʊ m a ɲ m e d e r ə
+deg-004-025 ʊ m ɛ m i i t u l
+deg-004-026 ʊ w ɔ m u t u l ə
+deg-004-027 ɔ j i m o t u l ə
+deg-004-028 e n i m e t u l ə
+deg-004-029 ʊ m a ɲ m e t u l ə
+deg-004-030 ʊ m ɛ m i i d a
+deg-004-031 ʊ w ɔ m ʊ d a
+deg-004-032 ɔ j i m ɔ d a
+deg-004-033 e n i m ɛ d a
+deg-004-034 ʊ m a ɲ m a d a
+deg-004-035 ʊ m ɛ m i i t a
+deg-004-036 ʊ w ɔ m ʊ t a
+deg-004-037 ɔ j i m ɔ t a
+deg-004-038 e n i m ɛ t a

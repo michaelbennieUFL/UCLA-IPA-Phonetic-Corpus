@@ -1,0 +1,91 @@
+nld-004-000 b ɪ t
+nld-004-001 p ʉ t
+nld-004-002 b o m
+nld-004-003 b ɛ t
+nld-004-004 b ɔ t
+nld-004-005 b ɑ t
+nld-004-006 b i t
+nld-004-007 d y v ə n
+nld-004-008 b u t ə
+nld-004-009 b a t
+nld-004-010 d ə
+nld-004-011 b ɛ ɪ t
+nld-004-012 b ʌ ʉ t
+nld-004-013 b ɑ t
+nld-004-014 b e ɪ t
+nld-004-015 b e t
+nld-004-016 b ɔ t
+nld-004-017 f ɾ a i
+nld-004-018 m o i
+nld-004-019 f u i
+nld-004-020 m e o
+nld-004-021 n i ʉ
+nld-004-022 ɪ ʉ
+nld-004-023 b ɑ k
+nld-004-024 p ɑ t
+nld-004-025 k a b ɫ̩
+nld-004-026 a p ə n
+nld-004-027 k ɑ p
+nld-004-028 d ɑ l
+nld-004-029 t ɑ l
+nld-004-030 b ʌ ʉ d ɫ̩
+nld-004-031 b ʌ ʉ t ɫ̩
+nld-004-032 m ɔ t
+nld-004-033 k ɑ n
+nld-004-034 t a k ɫ̩
+nld-004-035 d ɛ k
+nld-004-036 z o ʔ ɪ s h e t
+nld-004-037 d ɾ i ʔ ɪ s t ə ʋ e ɫ
+nld-004-038 ɔ ŋ ə
+nld-004-039 p ɛ ə
+nld-004-040 b ɑ ə
+nld-004-041 t ɪ kʲ ə
+nld-004-042 b ɑ kʲ ə
+nld-004-043 v ɔ l
+nld-004-045 f ɛ l
+nld-004-046 ɣ ɾ ʉ ʋ ɫ̩
+nld-004-047 s n a v ə ɫ
+nld-004-048 ɾ a f ə ɫ
+nld-004-049 d ɔ f
+nld-004-050 z ɔ t
+nld-004-051 s ɔ p
+nld-004-052 b a z ɫ̩
+nld-004-053 v a s ə m
+nld-004-054 d ɔ s
+nld-004-055 ʒ e ʁ ɑ̃ n
+nld-004-056 ʃʲ ə ɹ p
+nld-004-057 m ə ʃ ə
+nld-004-058 e t a ʒ ə
+nld-004-059 v a ɾ v ɑ ʃʲ ə
+nld-004-060 ɣ ɾ o t
+nld-004-061 k o ɣ ɫ̩
+nld-004-062 k ɑ x ɫ̩
+nld-004-063 n ɔ x
+nld-004-064 t ə ɦ ʌ ʉ s
+nld-004-065 n ɑ ɦ ɛ m
+nld-004-066 h ɑ l
+nld-004-067 h o l
+nld-004-068 m ɑ l
+nld-004-069 h a m ə ɾ
+nld-004-070 k ɑ m
+nld-004-071 n ɔ k
+nld-004-072 l o n ə n
+nld-004-073 t ɔ n
+nld-004-074 f ɾ ɑ ɲ ə
+nld-004-075 ʃ ɑ m p ɑ ɲ ə
+nld-004-076 h ɑ ŋ ə ɾ
+nld-004-077 d ɾ ɑ ŋ k
+nld-004-078 t ɔ ŋ
+nld-004-079 ɾ ɑ s
+nld-004-080 p a ɾ ə ɫ
+nld-004-081 ɑ r
+nld-004-082 k ɑ r
+nld-004-083 l ɛ x
+nld-004-084 k u l ə ɹ
+nld-004-085 ɛ l
+nld-004-086 ɪ ʉ
+nld-004-087 d ɪ ʉ
+nld-004-088 j u ɫ
+nld-004-089 p u j ə ɹ
+nld-004-090 z e ɪ j n̩
+nld-004-091 d ɑ t z i j ɪ k

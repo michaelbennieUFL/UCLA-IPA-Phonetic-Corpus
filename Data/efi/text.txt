@@ -1,0 +1,49 @@
+efi-000-000 a b a
+efi-000-001 a b j a
+efi-000-002 a b w a
+efi-000-003 a d a
+efi-000-004 a d j a ɣ a
+efi-000-005 a d w a
+efi-000-006 a f a n
+efi-000-007 a f j a
+efi-000-008 a k a j
+efi-000-009 a k w a
+efi-000-010 a k͡p a
+efi-000-011 a m a
+efi-000-013 m j a ŋ a
+efi-000-014 a n a ŋ
+efi-000-015 a n a
+efi-000-016 i n w ɛ n
+efi-000-017 n ɔ ŋ
+efi-000-020 a s j a k
+efi-000-021 s w a
+efi-000-022 a t a
+efi-000-023 t j ɛ n ɛ
+efi-000-024 a t w a
+efi-000-025 a w a
+efi-000-026 a ŋ w a
+efi-000-027 u r u k
+efi-000-028 u r w a
+efi-000-029 u t i m
+efi-000-030 u t i n
+efi-000-031 u t a ŋ
+efi-000-032 u t i b
+efi-000-034 ŋ w ɛ d
+efi-000-035 s a k
+efi-000-036 n w ɛ k
+efi-000-037 m b a
+efi-000-038 m b ɛ
+efi-000-039 m b i
+efi-000-040 m b o
+efi-000-041 m b ɔ
+efi-000-043 ɛ b a
+efi-000-044 i b a
+efi-000-045 o b u
+efi-000-046 ɔ b ɔ
+efi-000-047 u b ɛ
+efi-000-048 k a j
+efi-000-049 d ɛ j
+efi-000-050 m b o j
+efi-000-051 f ɔ j
+efi-000-053 k a p
+efi-000-054 k ɛ t

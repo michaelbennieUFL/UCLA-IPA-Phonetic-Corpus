@@ -1,0 +1,25 @@
+lar-000-000 a b w e
+lar-000-001 ɔ p ɛ
+lar-000-002 e b ɛ
+lar-000-003 e t a
+lar-000-004 o t͡ʃ u
+lar-000-005 a d ɛ
+lar-000-006 e k ɔ̃
+lar-000-008 a kʷ a a
+lar-000-009 a ɡ o
+lar-000-010 a k͡p o
+lar-000-011 a m ɛ
+lar-000-012 a n o
+lar-000-013 e n̠ j ɛ
+lar-000-014 a f e
+lar-000-015 ɛ s o
+lar-000-016 e ç e ɹ e
+lar-000-017 a w e
+lar-000-018 a ɹ a
+lar-000-019 o l o
+lar-000-020 o j i
+lar-000-021 e ʍ e
+lar-000-022 ɛ d̠ ʐ a ŋ
+lar-000-023 e d ɥ o
+lar-000-024 e t̠ ɕʷ o
+lar-000-025 e t̠ ɕ a

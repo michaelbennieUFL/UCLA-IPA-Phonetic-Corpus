@@ -1,0 +1,70 @@
+ape-000-000 i tʰ o
+ape-000-001 q̠ i h æ
+ape-000-002 j o w i
+ape-000-003 ɪ tʰ æ ɾ a e qʰ
+ape-000-004 ɾ o w o q̠ i q̠
+ape-000-005 e ɪ q̠
+ape-000-006 m e ɪ j o qʰ
+ape-000-007 ʃ o qʰ e ɪ
+ape-000-008 e ɪ ɲ u w æ
+ape-000-009 m e ɪ h æ ɾ i q̠
+ape-000-010 h æ p e ɪ
+ape-000-011 æ ɾ æ p e ɪ ʃ
+ape-000-012 j æ m ə
+ape-000-013 m u d æ
+ape-000-014 u n æ
+ape-000-015 n u h ɞ tʰ
+ape-000-016 b ɞ h u q̠ u
+ape-000-017 ɞ tʰ u
+ape-000-018 o q̠ u d æ
+ape-000-019 ɔ tʰ ɔ tʰ
+ape-000-022 ɔ tʰ ɔ tʰ
+ape-000-023 ə w ɔ tʰ
+ape-000-024 ə m o m
+ape-000-025 m o h ɞ n
+ape-000-026 u tʰ o
+ape-000-027 b ø b
+ape-000-028 b ø r
+ape-000-029 a w u n
+ape-000-030 tʰ u w a q̠
+ape-000-031 u w a
+ape-000-032 ɸ æ h æ ɸ
+ape-000-035 b æ bʷ ɛ n
+ape-000-036 b æ bʷ ɛ q̠
+ape-000-037 w o ɾ ɞ b
+ape-000-038 tʰ ə n a e m
+ape-000-039 u tʰ æ b ø r
+ape-000-040 ə w u tʰ
+ape-000-041 d æ w e ɪ h
+ape-000-042 ə d u qʰ
+ape-000-043 qʰ ə ɾ e ɪ
+ape-000-044 o q o qʰ
+ape-000-045 o h o kʰ
+ape-000-046 q̠ i h æ
+ape-000-047 æ q̠ æ b
+ape-000-048 æ b æ q̠
+ape-000-049 m a n e ɪ
+ape-000-050 m a mʷ e ɪ
+ape-000-051 m a w ə m
+ape-000-052 n a tʰ o
+ape-000-053 n u n ɞ n
+ape-000-054 qʰ u ɾ ə n
+ape-000-055 ɲ æ pʷ e ɪ
+ape-000-056 n a ɲ æ h
+ape-000-057 n æ ɲ
+ape-000-058 s æ h ɞ r
+ape-000-059 u s u w o q̠
+ape-000-060 s u w ə s
+ape-000-061 ʃ æ pʷ e ɪ
+ape-000-062 ɛ ʃ u q̠ u h
+ape-000-064 d͡ʒ æ h
+ape-000-065 qʰ u d͡ʒ a r
+ape-000-066 ɾ æ b ø ɸ
+ape-000-067 u ɾ ɞ q ɞ m
+ape-000-068 w æ b ø r
+ape-000-069 j æ m ə
+ape-000-070 j æ j ɛ n
+ape-000-072 n a w a n
+ape-000-073 h a w a w
+ape-000-074 h æ pʷ e ɪ
+ape-000-075 h a h e ɪ

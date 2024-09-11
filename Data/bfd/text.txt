@@ -1,0 +1,24 @@
+bfd-000-000 a b o
+bfd-000-001 a t i
+bfd-000-002 a t̠ ʃ a ʔ ə
+bfd-000-003 a d i
+bfd-000-004 a d̠ ʒ õ
+bfd-000-006 ŋ ɡ a ŋ
+bfd-000-007 a n ü m o y i
+bfd-000-008 a n ü n u y i
+bfd-000-009 a n ü ɲ a y i
+bfd-000-010 n ɔ ŋ ə
+bfd-000-011 a f u
+bfd-000-014 a z i
+bfd-000-015 a ɣ ɯ
+bfd-000-016 a j a
+bfd-000-017 a l o
+bfd-000-018 a f r u
+bfd-000-019 a n ü b w i
+bfd-000-020 a t w i
+bfd-000-022 a n ü ŋ ɡ w e y i
+bfd-000-023 a n ü n w i
+bfd-000-024 a ŋ w i n ö
+bfd-000-026 a s w i
+bfd-000-027 a k a ŋ z w i n ü
+bfd-000-028 a l w i n

@@ -1,0 +1,62 @@
+hau-010-000 tʰ aː ɽ ʌ
+hau-010-002 b aː ɽ a
+hau-010-003 ɓ aː ɽ e
+hau-010-004 d a ɽ a
+hau-010-005 pʰ ʌ ʃ i
+hau-010-006 f ʌ ʃ i
+hau-010-007 tʰ aː ʃ i
+hau-010-008 kʰ aː ʃ i
+hau-010-009 ʔ a ʃ ɨ ɽ ĩ n
+hau-010-010 b aː ʃ i
+hau-010-011 ɗ ãː ʃ i
+hau-010-012 ɡ aː ʃ i
+hau-010-013 m aː ʃ i
+hau-010-014 n aː ʃ i
+hau-010-015 tʰ aː k i
+hau-010-016 b aː k i
+hau-010-017 ɗ aː k i
+hau-010-018 m aː k i
+hau-010-019 n aː k i
+hau-010-021 pʰ a i pʰ a i
+hau-010-022 tʰ a i
+hau-010-023 s ẽ ĩ n
+hau-010-024 t͡sʼ a i
+hau-010-025 ʃ aː i
+hau-010-026 h aː i
+hau-010-027 z ɛ i
+hau-010-028 ɸ ãː m a
+hau-010-029 pʰ ãː m a
+hau-010-030 f ãː m a
+hau-010-031 z ã m a
+hau-010-032 d͡ʒ a m ʌ ʔ a
+hau-010-033 s ãː m õ
+hau-010-034 t͡sʼ ãː m õ
+hau-010-035 z ãː m õ
+hau-010-036 t͡sʼ a t͡sʼ a
+hau-010-037 t͡ʃ a t͡ʃ a
+hau-010-040 w a i j a
+hau-010-041 j a j a ʔ
+hau-010-043 a ɽ a ʔ
+hau-010-044 a ɾ a ʔ
+hau-010-047 b ʌ r a
+hau-010-049 d͡ʒ iː kʰ a
+hau-010-050 d͡ʒ i kʼ a
+hau-010-051 f ɛ r e
+hau-010-052 f i l i
+hau-010-053 f aː ɗ i
+hau-010-054 f ʌ ɗ i
+hau-010-055 d uː kʰ a
+hau-010-056 ɗ ɨ kʰ a
+hau-010-057 z oː
+hau-010-058 z o
+hau-010-059 s o ɽ o
+hau-010-060 s a ʊ ɽ o
+hau-010-061 ɸ a i ɸ a i
+hau-010-062 f a i f a i
+hau-010-064 ʃ a
+hau-010-066 t͡ʃ i kʰ i
+hau-010-067 t͡ʃ i kʰ i
+hau-010-068 s a ɪ j ɛ r
+hau-010-070 ʃ a ɪ d ʌ
+hau-010-072 f ɪ t o
+hau-010-075 d͡ʒ i b i

@@ -1,0 +1,53 @@
+heb-002-000 pʰ a l a
+heb-002-001 b a l a
+heb-002-002 tʰ a l a
+heb-002-003 d a l a
+heb-002-004 kʰ a l a
+heb-002-005 q̠ ə l a
+heb-002-006 ʔ ə l a
+heb-002-007 ʃ a ʁ a kʰ
+heb-002-008 z a ʁ a kʰ
+heb-002-010 n a v a χ
+heb-002-011 ʃ a l õ m
+heb-002-012 χ ə̃ m
+heb-002-013 ʀ õ m
+heb-002-016 ʔ ã ŋ q̠ l i tʰ
+heb-002-017 j a
+heb-002-018 l o
+heb-002-019 kʰ i
+heb-002-020 kʰ ɛ n
+heb-002-021 kʰ a d
+heb-002-022 kʰ o l
+heb-002-023 kʰ l i
+heb-002-024 k u ʀ
+heb-002-025 e f o
+heb-002-026 a ɪ n
+heb-002-027 kʰ a v a
+heb-002-029 ʔ ɛː d
+heb-002-030 ʔ ɛ tʰ
+heb-002-031 pʰ o ʁ tʰ ã n
+heb-002-033 k ã m
+heb-002-034 k a l
+heb-002-035 z ə̃ m ã m
+heb-002-036 z ə̃ m a ʁ
+heb-002-037 ʀ a k a v
+heb-002-038 ʃ ə ʀ a tʰ
+heb-002-039 b a ʔ a r
+heb-002-040 ʔ a b a
+heb-002-041 m e ʔ a tʰ
+heb-002-042 z m ã n
+heb-002-043 z ə̃ m ã n
+heb-002-044 p ʃ a tʰ
+heb-002-045 p a ʃ a tʰ
+heb-002-046 b o k ɛ ʁ
+heb-002-047 b o k e ʁ
+heb-002-048 n a ʔ a l
+heb-002-049 n a ʔ a l
+heb-002-050 n a ʔ a ʀ
+heb-002-051 n a ʔ a ʀ
+heb-002-052 ʀ o ʃ ɛ̃
+heb-002-053 ʁ o ʃ ɛ̃
+heb-002-054 ʔ o s ɛ f
+heb-002-055 ʔ o s ɛ f
+heb-002-060 t͡s d a kʰ a
+heb-002-063 ʃ q̠ i ʔ a

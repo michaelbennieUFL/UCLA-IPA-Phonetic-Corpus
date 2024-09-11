@@ -1,0 +1,22 @@
+hni-000-000 z
+hni-000-001 z
+hni-000-002 t i
+hni-000-003 t i̠
+hni-000-004 x ɛ
+hni-000-005 x ɛ̠
+hni-000-006 t v̩
+hni-000-007 t v̩
+hni-000-008 t s
+hni-000-009 t s
+hni-000-010 t ɕ i
+hni-000-011 t ɕ i̠
+hni-000-012 p v̩
+hni-000-014 l̥ i
+hni-000-015 l̥ i̠
+hni-000-016 l̥ a
+hni-000-017 l̥ u
+hni-000-018 l̥ v̩
+hni-000-019 l̥ i
+hni-000-020 ɔ l̥ ɔ
+hni-000-021 k h ɯ l̥ ɯ
+hni-000-022 l̥ ɤ

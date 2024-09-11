@@ -1,0 +1,75 @@
+agx-000-001 ʕ a n
+agx-000-002 ʕ a m kʼʲ
+agx-000-003 ʕ a r
+agx-000-004 qʷ a ʕ a n a j
+agx-000-005 ʕ a d
+agx-000-006 r a ʕ
+agx-000-008 a c a ʕ a s
+agx-000-009 ʕ a t a ʕ a s
+agx-000-010 χ a l m a ʕ a
+agx-000-011 ʕ a j
+agx-000-012 ʕ a r c a b a n
+agx-000-013 ʕ a d u l f
+agx-000-014 ʕ a r x a s
+agx-000-015 m u ʕ
+agx-000-016 ü r ä f
+agx-000-017 ħ a r u d
+agx-000-018 ħ a w
+agx-000-019 ħ a
+agx-000-021 ħ a c
+agx-000-022 ħ a n
+agx-000-023 r a ħ
+agx-000-024 ħ a r
+agx-000-025 ħ a r
+agx-000-026 ħ a w
+agx-000-027 ħ a d
+agx-000-028 ħ a d a r
+agx-000-029 j a r ħ a s
+agx-000-030 ħ a r x a s
+agx-000-031 ʁ a r ħ a s
+agx-000-032 r u ħ a s
+agx-000-033 u ħ a s
+agx-000-034 m u ħ
+agx-000-035 ä l qʼ a
+agx-000-036 ä j w a n
+agx-000-037 ä r c a j
+agx-000-038 ä c
+agx-000-039 ä j a ɡ
+agx-000-040 m ä
+agx-000-041 c ä
+agx-000-042 cʼ ä
+agx-000-044 ü l
+agx-000-045 a s
+agx-000-046 a w a n cʼ a j
+agx-000-047 a r d
+agx-000-048 a j
+agx-000-049 a w
+agx-000-050 a l
+agx-000-051 l a
+agx-000-053 a d
+agx-000-054 a s e f
+agx-000-055 aː r e f
+agx-000-056 a r cʼ u l f
+agx-000-058 a s u f
+agx-000-059 l e i n
+agx-000-060 b a
+agx-000-061 b a a j
+agx-000-062 j a
+agx-000-063 ä s a s
+agx-000-064 ä c i n u r kʼ
+agx-000-065 ü r ä f
+agx-000-066 m ä r
+agx-000-067 ä ɡʷ
+agx-000-068 ä kʰʷ
+agx-000-069 ä r ä f
+agx-000-070 ä b a b
+agx-000-072 ü s
+agx-000-073 ü j
+agx-000-076 c i w
+agx-000-077 j a r c u d
+agx-000-080 c a m
+agx-000-081 m a r t e f
+agx-000-082 m ä l e qʰʷ
+agx-000-083 m ä qʰʷ
+agx-000-084 b a ɡ n i s
+agx-000-085 pʼ a ʒ

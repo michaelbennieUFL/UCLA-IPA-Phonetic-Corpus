@@ -1,0 +1,157 @@
+apc-005-000 b æː b
+apc-005-001 t̪ iː n
+apc-005-002 t iː ɯ n
+apc-005-003 d̪ a r b
+apc-005-005 k a l b
+apc-005-006 ʔ a l b
+apc-005-007 ʌ m a r
+apc-005-008 s æ b ə b
+apc-005-009 s ɛ b b ə b
+apc-005-010 r æ t̪ ɪ b
+apc-005-011 r æ t̪ t̪ ə b
+apc-005-012 r ʊ t ɪ b
+apc-005-013 b a t ə l
+apc-005-014 b a t t ə l
+apc-005-015 h æ d̪ ə m ə
+apc-005-016 h æ d̪ d̪ ə m ə
+apc-005-017 f æː d̪ i
+apc-005-018 f aː i
+apc-005-019 f aː ə
+apc-005-020 f æ k ə r ə
+apc-005-021 f æ k k ə r ə
+apc-005-022 n ɛ k ɜ r
+apc-005-023 n a ʔ a r
+apc-005-024 f ɑ ʔ ɜ r
+apc-005-025 f a ʔ ʔ a r
+apc-005-026 f a ʔ i r
+apc-005-027 d̪ ɪ b b
+apc-005-028 b æː t̪ t̪
+apc-005-029 b ɑː t
+apc-005-030 m ʊ f iː d̪
+apc-005-031 m ʊ f ɨː
+apc-005-032 t̪ ə m æ l l æ k
+apc-005-033 t̪ ə m a l l ʌ ʔ
+apc-005-035 θ ɑ r ə
+apc-005-036 ð a b ə
+apc-005-037 s ʊ l ɪ b
+apc-005-038 s ɑ l ɪ b
+apc-005-039 z a h ə r ə
+apc-005-040 z ɑ h ə r ə
+apc-005-041 z ʊ l l
+apc-005-042 z ɪ l l
+apc-005-043 ʃ ɛ n ə b
+apc-005-044 ʒ æ n b
+apc-005-045 χ æ d̪ ə m
+apc-005-046 ħ æ d̪ ə θ
+apc-005-047 h æ d̪ ə m
+apc-005-048 χ ʌ l ə ʔ
+apc-005-049 ʁ ʌ l ə ʔ
+apc-005-050 h a r r
+apc-005-051 ʕ a m m
+apc-005-052 n æ f ə s
+apc-005-053 n æ f f ə s
+apc-005-055 æ ʋ ʋ ɑ r
+apc-005-056 m ə s l uː b
+apc-005-057 m ɑ s l uː b
+apc-005-058 k æ s ə r ə
+apc-005-059 k æ s s ə r ə
+apc-005-060 f a s ə l ə
+apc-005-061 f a s s ə l ə
+apc-005-062 n æ ð ɜ r
+apc-005-063 n æ ð ð ɜ r
+apc-005-064 n ɑ ð a r
+apc-005-065 n a z z a m
+apc-005-066 ħ æ ð ɜ r
+apc-005-067 h a ð ð ɜ r
+apc-005-068 f æ ʃ a l
+apc-005-069 f æ ʃ ʃ a l
+apc-005-070 n i ʃ ə
+apc-005-071 n æ ʒ ə
+apc-005-072 ħ æ ʒ a r
+apc-005-073 ħ æ ʒ ʒ a r
+apc-005-074 j æ χ d̪ ʊ m
+apc-005-075 f æ χ ʌ m
+apc-005-076 f æ χ χ a m
+apc-005-077 j æ ħ ə d̪ ʊ θ
+apc-005-078 r a ħ ə b
+apc-005-079 r æ h h ʌ b
+apc-005-080 j æ h d̪ ʊ m
+apc-005-081 q ɑ h a r
+apc-005-082 q ɑ h h a r
+apc-005-083 b ɪ χ ɛ l l i
+apc-005-084 b ɪ ʁ a l l i
+apc-005-085 ɑ ʁ ə t ɔ
+apc-005-086 ɑ ʁ ʁ ɔ t ɔ
+apc-005-087 m æ h a
+apc-005-088 m a ʕ a
+apc-005-089 l a ʕ a b
+apc-005-090 l a ʕ ʕ ʌ b
+apc-005-091 ʃ æ r ə f
+apc-005-092 ʁ a j ɪ θ
+apc-005-093 l a ð iː ð
+apc-005-094 s u s
+apc-005-095 s uː s
+apc-005-096 m a ħ f u ð
+apc-005-097 m a ħ f u z
+apc-005-098 r æ ʃ ʃ
+apc-005-099 r æ ʒ ʒ
+apc-005-100 t̪ a b ʌ χ
+apc-005-101 n æ b a ħ
+apc-005-102 n ɛ b b a h
+apc-005-103 b i f a r r ɪ χ
+apc-005-104 b i f a r r i ʁ
+apc-005-105 b æ l a ħ
+apc-005-106 b æ l a ʕ
+apc-005-107 m ɪ ʃ
+apc-005-108 n ɪ ʃ
+apc-005-109 k ə m a l
+apc-005-110 k æ m m a l
+apc-005-111 h æ n ə
+apc-005-112 h æ n n ə
+apc-005-113 m iː m
+apc-005-114 m iː n
+apc-005-115 l æ m ɛ ʕ
+apc-005-116 b æ l a l
+apc-005-117 b æ l l a l
+apc-005-118 æ l l ə
+apc-005-119 a l̴ l̴ a
+apc-005-120 d̪ æ l l
+apc-005-121 ɑ l̴ l̴
+apc-005-122 r ɛː s i
+apc-005-123 r aː s i
+apc-005-124 m æ r ə ʔ
+apc-005-125 b æ r ə d̪
+apc-005-126 m a r ə
+apc-005-127 b æ r r ə d
+apc-005-128 s ɨ r r
+apc-005-129 s aː r
+apc-005-130 j a r ɛ d
+apc-005-131 w a r ə d
+apc-005-132 ħ a j ə
+apc-005-133 ħ a ɪ j j ə
+apc-005-134 ħ a ɪ j ə
+apc-005-135 h a ʊ w ə
+apc-005-136 h a ʊ w w ə
+apc-005-137 ʕ a r
+apc-005-138 ʔ a r
+apc-005-139 r ɑ ʕ ʊ b
+apc-005-140 r a ʔ a h
+apc-005-141 b æ d̪ a ʕ
+apc-005-142 b æ d̪ ə ʔ
+apc-005-143 h æ n n i
+apc-005-144 ʔ æ n ə
+apc-005-145 k ɛː s
+apc-005-146 χ æ s
+apc-005-147 s æ k ə n
+apc-005-148 f a χ ʌ t̪
+apc-005-150 f ʌ χ
+apc-005-151 ɪ b n̩
+apc-005-152 i ʒ ə
+apc-005-153 m ɪ n
+apc-005-154 m iː n
+apc-005-155 ɪ n t iː
+apc-005-156 i ʊ s s
+apc-005-157 t ɯ ɨː n
+apc-005-158 f a ɪ j ə a n
+apc-005-159 b a ɪ t
+apc-005-160 b e ɪ t n a

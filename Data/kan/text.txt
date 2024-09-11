@@ -1,0 +1,86 @@
+kan-000-000 k i ɖ i
+kan-000-001 k iː t̪ a
+kan-000-002 k u ɖ i
+kan-000-003 k uː ɖ i
+kan-000-004 k e ɾ u
+kan-000-005 k eː ɾ u
+kan-000-006 k ʌ ɽ u
+kan-000-007 k aː ɾ u
+kan-000-008 k ə ɯ ɾ u
+kan-000-009 k ə ɯ ɾ u
+kan-000-010 a i d̪ u
+kan-000-011 h a u d̪ u
+kan-000-012 h uː v u
+kan-000-013 h u
+kan-000-014 a n̪ d̪ u
+kan-000-015 a m m a
+kan-000-016 a n̪ n̪ a
+kan-000-017 a ɳ ɳ a
+kan-000-018 p aː l u
+kan-000-019 b aː l a
+kan-000-020 pʰ a l a
+kan-000-021 bʰ a j a
+kan-000-022 t i p p e
+kan-000-023 t ə p aː l u
+kan-000-024 m a t̪ a
+kan-000-025 m a d̪ a
+kan-000-026 m a ʈʰ a
+kan-000-027 m a ɖ u v u
+kan-000-028 tʰ a k k u
+kan-000-029 ɖʰ a k k ɵ
+kan-000-030 t͡ʃ iː ɾ u
+kan-000-031 d͡ʒ eː n u
+kan-000-032 kʰ iː ɾ u
+kan-000-033 q̠ iː ɾ u
+kan-000-034 q̠ a n̪ a
+kan-000-035 dʰ a n̪ a
+kan-000-036 d̪ a n̪ a
+kan-000-037 t̪ʰ ʌ n̪ d̪ i
+kan-000-038 t͡ʃʰ ʌ t̪ ɾ i
+kan-000-039 d͡ʒʰ ʌ ɾ i
+kan-000-040 s aː l u
+kan-000-041 ʃ aː l u
+kan-000-042 h aː l u
+kan-000-043 m aː ɽ u
+kan-000-044 n̪ aː ɽ u
+kan-000-045 m ʌ n̪ a
+kan-000-046 m ʌ ɳ a
+kan-000-047 m ə ɾ e
+kan-000-048 m ɔ l e
+kan-000-049 m a ɭ e
+kan-000-050 k a m m i
+kan-000-051 k ʌ ɖ ɖ i
+kan-000-052 k ʌ ɭ ɭ i
+kan-000-053 v a j a s s u
+kan-000-054 j aː t a
+kan-000-055 j aː k e
+kan-000-056 d͡ʒ aː t̪ ə k a
+kan-000-057 h i ʈ ʈ u
+kan-000-059 h ʌ l l i
+kan-000-060 h ʌ ɭ ɭ i
+kan-000-061 s a n̪ t̪ e
+kan-000-062 b a ɳ ɖ e
+kan-000-063 s a ŋ d͡ʒ e
+kan-000-064 b e n̪ k i
+kan-000-065 k ʌ ʃ t̪ a
+kan-000-066 s t̪ u t̪ i
+kan-000-067 v i ʃ ʌ j a
+kan-000-068 d̪ a j a
+kan-000-069 k o j j u
+kan-000-070 p a i ɾ u
+kan-000-071 ɲ j aː j a
+kan-000-072 m aː ɲ j a
+kan-000-074 ʃ ə ɯ k i
+kan-000-075 v i ʃ ə
+kan-000-076 h a m s ə
+kan-000-077 m aː s ə
+kan-000-078 t͡ʃ i q̠ i
+kan-000-079 t͡ʃ u n q̠ u
+kan-000-080 ɽ aː ɽ i
+kan-000-081 ɖ ʌ b b i
+kan-000-082 d͡ʒ i q̠ i
+kan-000-083 d͡ʒ ʌ q̠ q̠ a
+kan-000-084 a n t̪ a k a ɽ a n a
+kan-000-085 h aː d̪ i
+kan-000-086 t j aː q̠ a
+kan-000-087 t r iː p ə d i

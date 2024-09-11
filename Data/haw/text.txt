@@ -1,0 +1,54 @@
+haw-000-001 k a l a
+haw-000-002 k a l aː
+haw-000-005 k o k o
+haw-000-006 k oː k oː
+haw-000-007 p o h o
+haw-000-010 p eː p eː
+haw-000-012 k ɛ p a
+haw-000-013 k eː p a
+haw-000-014 w iː w iː
+haw-000-015 w i w o
+haw-000-016 i j a
+haw-000-017 i j aː
+haw-000-018 l u l a
+haw-000-019 l uː l uː
+haw-000-020 l u l u
+haw-000-021 k u a
+haw-000-022 n o u
+haw-000-023 n o u
+haw-000-024 n o ʔ u
+haw-000-025 k o uː
+haw-000-026 k o uː
+haw-000-027 k o ʔ u
+haw-000-030 ʔ a ʔ iː
+haw-000-032 a i
+haw-000-033 a i a
+haw-000-034 ʔ a i a
+haw-000-035 ʔ a ʔ i a ʔ i
+haw-000-037 a h a
+haw-000-038 ʔ a h a
+haw-000-039 a k a
+haw-000-042 ʔ a ʔ a
+haw-000-043 h u i
+haw-000-044 h u ʔ i
+haw-000-045 h e m o
+haw-000-046 h e m a
+haw-000-047 l a n a
+haw-000-048 m a n a
+haw-000-049 n aː n aː
+haw-000-050 p a n a
+haw-000-051 w a n a
+haw-000-052 k i l o
+haw-000-053 k i m o
+haw-000-054 k iː p oː
+haw-000-055 k i p i
+haw-000-056 k i w i
+haw-000-057 w a i l u a
+haw-000-058 v a i l a n a
+haw-000-060 a v a
+haw-000-061 ʔ e v a ʔ e v a
+haw-000-062 i v a h o
+haw-000-063 ʔ o w a
+haw-000-064 u w oː
+haw-000-066 i n o a
+haw-000-068 k a h i

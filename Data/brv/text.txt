@@ -1,0 +1,45 @@
+brv-000-001 k a i ʔ
+brv-000-002 m p a i
+brv-000-003 n t s a iː
+brv-000-004 k ʌ h
+brv-000-005 k ɔ h
+brv-000-006 k o h
+brv-000-007 k ɑ h
+brv-000-008 p a t n
+brv-000-009 k r aː k ŋ
+brv-000-010 t ɕ a t
+brv-000-011 t ɕ a p m
+brv-000-012 k iː t
+brv-000-013 k a̤ i ʔ
+brv-000-014 m p a̤ i
+brv-000-015 n t s a̤ i ʔ
+brv-000-016 k a̤ h
+brv-000-017 k r ɔ̤ h
+brv-000-018 k r o̤ː h
+brv-000-019 p a̤ t n
+brv-000-020 k r a̤ k ŋ
+brv-000-022 t ɕ a p m
+brv-000-023 k i̤ː t
+brv-000-024 t a h
+brv-000-025 t ɛ h
+brv-000-026 t eː ʔ
+brv-000-027 t u ʔ
+brv-000-028 t o ʔ
+brv-000-029 t a i
+brv-000-030 t iː a
+brv-000-031 t oː t n
+brv-000-032 t uː t n
+brv-000-034 t uː a k ŋ
+brv-000-035 t uː a ʔ
+brv-000-036 t iː h
+brv-000-037 p ɤː p m
+brv-000-038 t a̤ h
+brv-000-041 t ṳ h
+brv-000-042 t o̤ h
+brv-000-043 t a̤ i
+brv-000-044 t i̤ː a
+brv-000-045 t o̤ː t n
+brv-000-046 t ṳː l
+brv-000-047 t ɯ̤ p
+brv-000-049 t ṳː a
+brv-000-050 t i̤ː

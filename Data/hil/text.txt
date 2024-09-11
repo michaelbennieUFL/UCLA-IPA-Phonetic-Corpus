@@ -1,0 +1,51 @@
+hil-000-000 b ʌ t ɪ ʔ
+hil-000-001 p ʌ t ɪ ʔ
+hil-000-002 q̠ ɑ m ʌ t
+hil-000-003 k ɑ m ʌ t
+hil-000-004 d ɑː l u m
+hil-000-005 t ɑː l u m
+hil-000-006 m i l ɑː q̠ ɾ u
+hil-000-007 n iː l ɑ
+hil-000-008 ŋ i l ʔ ɑ d
+hil-000-009 s ɛ l j o ɯ
+hil-000-010 l i p ɑ s
+hil-000-011 ɾ i p ɑ
+hil-000-012 h ɑ l ɑ
+hil-000-013 w ɑ l ɑ
+hil-000-014 j ɑː b i
+hil-000-015 ɑ b u
+hil-000-016 ɑ p u
+hil-000-017 t ɑ q̠ ɑ m
+hil-000-018 t ɑː k ɑ m
+hil-000-019 k ɑː d ɑ ɯ
+hil-000-020 k ɑ t ɑ ɯ
+hil-000-021 h ɑː n ʌ t
+hil-000-022 h ɑ ŋ o ɯ p
+hil-000-023 p r ɛ s ɛ n t ɑ̞ ɾ
+hil-000-026 ɑ iː h ɑ n
+hil-000-027 h i w ɑ̝
+hil-000-028 k uː t u b
+hil-000-029 k u n u p
+hil-000-030 t u n u q̠
+hil-000-032 s ɑː b ɑ d
+hil-000-033 s ɑ b ɑ t
+hil-000-035 s u n s u n
+hil-000-036 s u m b u ŋ
+hil-000-037 h ɑː q̠ ɑ s
+hil-000-039 b ɑ p o ɾ
+hil-000-041 uː b ɑ ɪ
+hil-000-042 s i b ɪ t
+hil-000-043 h ɛː f ɛ
+hil-000-044 ʔ ɑ ɪː h ɑ n
+hil-000-045 ʔ ɑ ɯː h ɑ q̠
+hil-000-046 ʔ ɔ ɪ
+hil-000-047 ʔ o ɯ ɾ q̠ ɑ n o ɯ
+hil-000-048 l ɑ b ɑ ɪ ɑ n
+hil-000-049 p ɑ b ɑ h ɑ ɯː ɑ n
+hil-000-050 b ɑː b ɔ ɪ
+hil-000-051 b ɑ t u
+hil-000-052 b ɑ t u̝
+hil-000-053 ɾ ɛ q̠ ɑː l o ɯ
+hil-000-054 sʲ ɛ t e
+hil-000-056 p i ɛ s t ɑ
+hil-000-059 t u ʔ o ɯ

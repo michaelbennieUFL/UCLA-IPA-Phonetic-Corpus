@@ -1,0 +1,156 @@
+pes-001-000 p i ʃ
+pes-001-001 b i ʃ
+pes-001-002 tʰ æ r̥
+pes-001-003 d æ r̥
+pes-001-004 k u r̥
+pes-001-005 ɢ u r̥
+pes-001-006 ɢ a r̥
+pes-001-009 d͡ʒ æ ŋ ɢʲ
+pes-001-010 s æ f a
+pes-001-012 s æ r̥
+pes-001-013 z æ r̥
+pes-001-015 ʒ æ r f
+pes-001-017 h a l
+pes-001-018 m u
+pes-001-019 n o w
+pes-001-020 χ a l
+pes-001-021 χ a r̥
+pes-001-022 o w d͡ʒ
+pes-001-023 χ o y
+pes-001-025 b i ʃ
+pes-001-026 tʰ æ r̥
+pes-001-027 d æ r̥
+pes-001-028 k u r̥
+pes-001-029 ɢ u r̥
+pes-001-030 ɢ a r̥
+pes-001-032 t͡ʃ æ ŋ ɢʲ
+pes-001-033 d͡ʒ æ ŋ ɢʲ
+pes-001-034 s æ f a
+pes-001-035 s æ v a
+pes-001-036 s æ r̥
+pes-001-037 z æ r̥
+pes-001-038 ʃ æ b
+pes-001-039 ʒ æ r f
+pes-001-040 χ a r̥
+pes-001-041 h a l
+pes-001-042 m u
+pes-001-043 n o w
+pes-001-044 χ a l
+pes-001-045 χ a r̥
+pes-001-046 o w d͡ʒ
+pes-001-047 χ o y
+pes-001-048 s i r̥
+pes-001-049 s e r̥
+pes-001-050 s æ r̥
+pes-001-051 s a r̥
+pes-001-052 s o r̥
+pes-001-054 s i r̥
+pes-001-055 s e r̥
+pes-001-056 s æ r̥
+pes-001-057 s a r̥
+pes-001-058 s o r̥
+pes-001-059 s u r i
+pes-001-060 kʰ a r̥
+pes-001-061 kʰʲ æ r̥
+pes-001-062 χ a kʰʲ
+pes-001-063 ɢ a v
+pes-001-064 ɢʲ e l
+pes-001-065 d i ɢʲ
+pes-001-066 kʰ a r̥
+pes-001-067 kʰʲ æ r̥
+pes-001-068 χ a kʰʲ
+pes-001-069 ɢ a v
+pes-001-070 ɢʲ e l
+pes-001-071 d i ɢʲ
+pes-001-072 ɢ a r̥
+pes-001-073 a ʁ a
+pes-001-074 v æ χ t
+pes-001-075 r æ χ s
+pes-001-076 ɢ a r̥
+pes-001-077 a ʁ a
+pes-001-078 v æ χ t
+pes-001-079 r æ χ s
+pes-001-080 t͡ʃ e ʃ m̥
+pes-001-081 m æ n
+pes-001-082 æ m m a
+pes-001-083 t͡ʃ e ʃ m̥
+pes-001-084 m æ n
+pes-001-085 æ m m a
+pes-001-086 r o kʰʲ n̥
+pes-001-087 e m b e s a t
+pes-001-088 d͡ʒ æ ŋ ɢʲ
+pes-001-090 n a n
+pes-001-092 r o kʰʲ n̥
+pes-001-093 e m b e s a t
+pes-001-094 d͡ʒ æ ŋ ɢʲ
+pes-001-095 e n ɢ e l a b
+pes-001-096 n a n
+pes-001-097 m æ n z e l
+pes-001-098 f æ s l̥
+pes-001-099 s æ t l̥
+pes-001-100 l a m
+pes-001-102 f æ s l̥
+pes-001-103 s æ t l̥
+pes-001-104 l a m
+pes-001-105 ɢ æ l æ tʰ
+pes-001-106 p i r̥
+pes-001-107 r o b
+pes-001-108 æ b r u
+pes-001-109 æ r m æ n e s t a n
+pes-001-110 p i r̥
+pes-001-111 r o b
+pes-001-112 æ b r u
+pes-001-113 æ r m æ n e s t a n
+pes-001-115 χ u n e
+pes-001-116 t æ m a m
+pes-001-117 t æ m u m
+pes-001-118 χ a n e
+pes-001-119 χ u n e
+pes-001-120 t æ m a m
+pes-001-121 t æ m u m
+pes-001-122 b æ r a d æ r̥
+pes-001-124 b u l u z
+pes-001-125 b æ r a d æ r̥
+pes-001-126 e s t e r i o
+pes-001-127 b u l u z
+pes-001-128 b æ n a
+pes-001-129 b æ nː a
+pes-001-132 k o r e
+pes-001-134 b e p a
+pes-001-135 b e pː a
+pes-001-136 b æ n a
+pes-001-137 b æ nː a
+pes-001-138 b æ l a
+pes-001-139 b æ lː a
+pes-001-140 k o r e
+pes-001-141 k o rː e
+pes-001-142 b e p a
+pes-001-144 χ u n æ m
+pes-001-146 b æ r ɢ i
+pes-001-147 b æ r ɢ i
+pes-001-148 p u l d a r i
+pes-001-149 p u l d a r i
+pes-001-150 p u l d a r i
+pes-001-151 r æ f t æ m
+pes-001-152 r æ f t æ m
+pes-001-153 χ u n æ m
+pes-001-154 χ u n æ m
+pes-001-155 b æ r ɢ i
+pes-001-156 b æ r ɢ i
+pes-001-157 p u l d a r i
+pes-001-158 p u l d a r i
+pes-001-159 p u l d a r i
+pes-001-160 r æ f t æ m
+pes-001-161 r æ f t æ m
+pes-001-162 b æ d
+pes-001-163 b æː d
+pes-001-164 s e r̥
+pes-001-165 s eː r̥
+pes-001-166 ʃ o l e
+pes-001-167 ʃ oː l e
+pes-001-168 b æ d
+pes-001-169 b æː d
+pes-001-170 s e r̥
+pes-001-171 s eː r̥
+pes-001-172 ʃ o l e
+pes-001-173 ʃ oː l e

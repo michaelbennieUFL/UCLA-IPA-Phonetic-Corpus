@@ -1,0 +1,38 @@
+ewe-001-000 p a p a
+ewe-001-002 e b a
+ewe-001-003 e q̠ b a
+ewe-001-004 e t a
+ewe-001-005 e d̪ a
+ewe-001-006 e ɖ a
+ewe-001-009 e d̠ ʑ a
+ewe-001-011 e q̠ ã
+ewe-001-012 e m a
+ewe-001-013 e n a
+ewe-001-014 e ɲ a
+ewe-001-015 e ŋ e
+ewe-001-016 e ɸ a
+ewe-001-019 e w ɔ
+ewe-001-020 ɛ β ɛ
+ewe-001-023 e x e
+ewe-001-024 e h e
+ewe-001-025 e z a
+ewe-001-026 e j a
+ewe-001-027 e ɣ a
+ewe-001-028 e l e
+ewe-001-031 e b l a
+ewe-001-032 a ɡ͡b l e
+ewe-001-034 e d r o
+ewe-001-035 e t̠ ɕ r i
+ewe-001-036 e d ʑ r e
+ewe-001-038 e ɡ l ɔ̃
+ewe-001-039 e m l ã
+ewe-001-040 e ɲ r ẽ
+ewe-001-041 e ŋ l ɔ
+ewe-001-042 e ɸ l e
+ewe-001-043 e f l ẽ
+ewe-001-044 e w l ɔ
+ewe-001-046 e v l o
+ewe-001-047 e s r ɔ̃
+ewe-001-049 e h l ɔ
+ewe-001-050 e j r a
+ewe-001-051 e ɣ l a

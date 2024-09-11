@@ -1,0 +1,28 @@
+gaa-001-000 a p a ŋ
+gaa-001-001 e k͡p a
+gaa-001-002 e b a
+gaa-001-003 e ɡ͡b o
+gaa-001-004 e t e
+gaa-001-005 e d ɔ
+gaa-001-006 e t̠ ɕʷ a
+gaa-001-007 e t̠ ɕ o
+gaa-001-008 e d̠ ʑʷ a
+gaa-001-009 e d̠ ʑ a
+gaa-001-010 e k a
+gaa-001-011 e q̠ ɔ i
+gaa-001-012 e m a
+gaa-001-013 e ŋ m o
+gaa-001-014 e n a
+gaa-001-015 e ɲ a
+gaa-001-016 e ŋ a
+gaa-001-018 e ɥ e r e l a
+gaa-001-019 e w e
+gaa-001-020 e s a
+gaa-001-021 e ɕʷ a
+gaa-001-022 e ɕ a
+gaa-001-023 e h ã
+gaa-001-024 a z i i
+gaa-001-025 o j a
+gaa-001-026 e l e
+gaa-001-027 m l a
+gaa-001-028 m ɹ a

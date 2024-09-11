@@ -1,0 +1,74 @@
+hrv-001-000 p i t i
+hrv-001-001 b i t i
+hrv-001-002 t̪ aː
+hrv-001-003 d a ʔ
+hrv-001-004 k o d̪
+hrv-001-005 q̠ o d̪
+hrv-001-006 t̪ s a r
+hrv-001-007 t̪ ʃ e m e r
+hrv-001-008 ʈ s e m e r
+hrv-001-009 d̪ ʒ a k
+hrv-001-010 ɖ z a k
+hrv-001-011 f aː z a
+hrv-001-012 v aː z a
+hrv-001-013 s a ʔ
+hrv-001-014 z a ʔ
+hrv-001-015 ʂ a h
+hrv-001-016 ʐ a b a
+hrv-001-017 ɖ z a b a
+hrv-001-018 x r aː b a r
+hrv-001-019 m u ʔ
+hrv-001-020 n̪ u ʔ
+hrv-001-021 ɲ uː
+hrv-001-022 l a k
+hrv-001-023 r a k
+hrv-001-024 t̪ r e b a
+hrv-001-025 t̪ v r d
+hrv-001-026 j aː k
+hrv-001-027 ʎ i ʎ a
+hrv-001-028 m i ʔ
+hrv-001-029 m iː
+hrv-001-031 z eː n̪ a
+hrv-001-032 q̠ r a d̪
+hrv-001-033 q̠ r aː d̪
+hrv-001-034 v o d͡ʒ a
+hrv-001-035 v oː ɖ z a
+hrv-001-036 l u k
+hrv-001-037 l uː k
+hrv-001-038 r e i
+hrv-001-039 r a i
+hrv-001-040 r o i
+hrv-001-041 r u i
+hrv-001-042 k iː p
+hrv-001-043 k u p iː
+hrv-001-044 k l a d̪ a
+hrv-001-045 ç i ʎ a d a
+hrv-001-046 h a j d̪ u k
+hrv-001-047 x r aː b a r
+hrv-001-048 b a ŋ k a
+hrv-001-050 x r̥ aː m
+hrv-001-051 r aː m
+hrv-001-052 x l̥ aː d̪
+hrv-001-053 l eː d̪
+hrv-001-054 q̠ o v o r̥
+hrv-001-056 p t̪ i t̪ s a
+hrv-001-058 q̠ n o i
+hrv-001-059 x t̪ e t̪ i
+hrv-001-060 d̪ l a n
+hrv-001-061 t̪ v o j
+hrv-001-062 k v aː r
+hrv-001-063 s v eː t̪
+hrv-001-064 z b i v a ɲ e
+hrv-001-065 z d̪ r a v o
+hrv-001-066 z q̠ r a d̪ a
+hrv-001-067 z m a i l
+hrv-001-068 z n̪ a t̪ i
+hrv-001-069 z l o x
+hrv-001-071 z v o n̪ i t̪ i
+hrv-001-072 b a ʈ s v a
+hrv-001-073 b e z v l a s t̪ ʃ e
+hrv-001-074 k n eː z
+hrv-001-075 k ɲ i q̠ a
+hrv-001-076 p a r a
+hrv-001-077 p a r a
+hrv-001-081 l e p a s i k o r u z a

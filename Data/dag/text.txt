@@ -1,0 +1,23 @@
+dag-000-000 o p a h i a
+dag-000-001 o p a ɣ i a
+dag-000-002 o k͡p aː j a
+dag-000-003 o b a ŋ i a
+dag-000-005 o t a m j a
+dag-000-006 o d a m j a
+dag-000-007 o t̠ ʃ a ŋ j a
+dag-000-008 o d̠ ʒ a ŋ a
+dag-000-009 o k a r i a
+dag-000-010 o ɡ a r i a
+dag-000-011 o m a l a
+dag-000-012 o n aː j a
+dag-000-013 o ɲ a m j a
+dag-000-014 o ŋ a h j a
+dag-000-015 o ŋ m a j a
+dag-000-016 o f aː j a
+dag-000-017 o v a l m a
+dag-000-018 o s a j a
+dag-000-019 o ʃ ɛ j a
+dag-000-020 o z a ŋ j a
+dag-000-021 o ʒ ɛ j a
+dag-000-022 o l a b j a
+dag-000-023 o j aː j a

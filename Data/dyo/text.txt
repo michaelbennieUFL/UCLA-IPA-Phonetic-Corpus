@@ -1,0 +1,31 @@
+dyo-001-000 b a c a m
+dyo-001-001 b a l a i
+dyo-001-002 b a l a
+dyo-001-003 b u s a t a
+dyo-001-004 e d a b a
+dyo-001-005 k a b a n a n
+dyo-001-006 k a ɲ a l o
+dyo-001-007 k a f a t
+dyo-001-008 m a f a s
+dyo-001-009 f a ŋ k
+dyo-001-010 a r a n a
+dyo-001-011 e w e l
+dyo-001-012 e ʋ e l
+dyo-001-013 k a f a ŋ l e n
+dyo-001-014 a m a t a
+dyo-001-015 e ŋ a k
+dyo-001-016 e n a ɡ
+dyo-001-017 a k a m b a n i
+dyo-001-018 b a ɡ a m
+dyo-001-019 m a ɟ a k u t
+dyo-001-020 e m a p
+dyo-001-021 e m a b
+dyo-001-023 a j a l a
+dyo-001-024 e l a k
+dyo-001-025 e l a q̠
+dyo-001-026 a d j a u r a
+dyo-001-027 e m a ɡ
+dyo-001-028 e m a k
+dyo-001-029 ɟ a t
+dyo-001-030 a m a t a
+dyo-001-031 k a n a p

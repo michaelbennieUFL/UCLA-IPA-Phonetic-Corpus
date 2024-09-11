@@ -1,0 +1,23 @@
+led-001-000 b a
+led-001-001 ɓ a
+led-001-002 ɓ a
+led-001-003 p a
+led-001-004 b i
+led-001-005 ɓ i
+led-001-006 ɓ i
+led-001-007 p i
+led-001-008 b o
+led-001-009 ɓ o
+led-001-010 ɓ o
+led-001-011 p o
+led-001-012 b ɔ
+led-001-013 ɓ ɔ
+led-001-014 ɓ ɔ
+led-001-015 d a
+led-001-016 d d a
+led-001-017 d a
+led-001-018 t a
+led-001-019 d d e
+led-001-020 d e
+led-001-021 d i
+led-001-022 d d i

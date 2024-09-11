@@ -1,0 +1,162 @@
+isl-001-000 b iː ð
+isl-001-001 b ɪː ð
+isl-001-002 b ɛː ð
+isl-001-003 b œː ð
+isl-001-004 b aː ð
+isl-001-005 b uː ð
+isl-001-006 b ɔː ð
+isl-001-007 b aː r
+isl-001-008 b ɛː r
+isl-001-009 b ɪː r
+isl-001-010 b iː r
+isl-001-011 b ʏː r
+isl-001-012 b ɔː r
+isl-001-013 b uː r
+isl-001-014 b o uː r
+isl-001-015 b a iː r
+isl-001-016 b e iː ð
+isl-001-017 b œ yː ð
+isl-001-018 b a iː ð ɪ r
+isl-001-019 b a uː ð ɪ r
+isl-001-020 l ɪ iː j ɪ
+isl-001-021 l ɪː ɣ a
+isl-001-022 l ɔ iː j ɪ
+isl-001-023 l ɔː ɣ a
+isl-001-024 h ʏ iː j z
+isl-001-025 h ʏː ɣ a
+isl-001-026 h j ɛː r
+isl-001-027 h ɛː r
+isl-001-028 aː n a
+isl-001-029 a nː a
+isl-001-030 ɛː r
+isl-001-031 ɛ rː
+isl-001-032 ɪː s
+isl-001-033 ɪ sː
+isl-001-034 l iː t
+isl-001-035 l i t
+isl-001-036 f œː n
+isl-001-037 f œ nː
+isl-001-038 q̠ r ʏː n a
+isl-001-039 q̠ r ʏ nː a
+isl-001-040 ɔː k ʏ r
+isl-001-041 ɔ k ʏ r
+isl-001-042 m uː t a
+isl-001-043 m u t a
+isl-001-044 a uː t
+isl-001-046 l j ɛː t
+isl-001-047 l j ɛ tː
+isl-001-048 θ j o uː n
+isl-001-049 θ j o u t n̥
+isl-001-050 v a iː n a
+isl-001-051 v a i t n̥ a
+isl-001-052 b l œ yː t
+isl-001-053 b l œ y t
+isl-001-054 l e iː t
+isl-001-055 l e i t
+isl-001-056 f a r
+isl-001-057 v a r
+isl-001-058 θ a r
+isl-001-059 p a r
+isl-001-060 b a r
+isl-001-061 m a r
+isl-001-062 k o uː l
+isl-001-063 q̠ o uː l
+isl-001-064 c o uː l
+isl-001-065 j o uː l
+isl-001-066 ç o uː l
+isl-001-067 b ɛː r
+isl-001-068 h ɛː r
+isl-001-069 c ɛː r
+isl-001-070 d ɛː r
+isl-001-071 ɟ ɛː r
+isl-001-072 m ɛː r
+isl-001-075 m aː l a
+isl-001-076 b aː l a
+isl-001-077 d aː l a
+isl-001-078 c aː l a
+isl-001-079 k aː l a
+isl-001-080 q̠ aː l a
+isl-001-081 f aː l a
+isl-001-082 v aː l a
+isl-001-083 n a uː
+isl-001-087 d a uː
+isl-001-088 ɟ a uː
+isl-001-089 k a uː
+isl-001-090 f a uː
+isl-001-091 v a uː
+isl-001-092 θ a uː
+isl-001-093 s a uː
+isl-001-094 h a uː
+isl-001-095 m a uː
+isl-001-096 j a uː
+isl-001-097 ç a uː
+isl-001-098 l a uː n a
+isl-001-099 l̥ a uː n a
+isl-001-100 n̥ j ɛː
+isl-001-101 n j eː
+isl-001-102 r a uː
+isl-001-103 r̥ a uː
+isl-001-104 p aː r
+isl-001-105 h ɛ s p a
+isl-001-106 h ɛ pː ɪ n
+isl-001-107 t aː l a
+isl-001-108 h ɛ s t ʏ r
+isl-001-109 b r a tː
+isl-001-110 b r ɛ kː a
+isl-001-111 k aː l a
+isl-001-113 c aː l a
+isl-001-115 θ ɛ cː ɪ r
+isl-001-116 b aː r
+isl-001-117 k ɔ bː ɪ
+isl-001-118 l a m b
+isl-001-119 d ɛː r
+isl-001-121 œ l t
+isl-001-122 ɟ ɛː r
+isl-001-123 b ɛ ɟː a
+isl-001-124 q̠ aː l a
+isl-001-125 r ɪ q̠ n a
+isl-001-127 f aː r
+isl-001-128 k a fː ɪ
+isl-001-129 ɛ fː
+isl-001-130 s a uː
+isl-001-131 h ɪ sː a
+isl-001-133 ç a uː
+isl-001-134 h ʏ x s a
+isl-001-136 v a uː
+isl-001-137 h aː v a
+isl-001-138 h aː v
+isl-001-139 ɛː ð a
+isl-001-140 b aː ð
+isl-001-141 j a uː
+isl-001-142 l e iː j i
+isl-001-143 e iː ɣ a
+isl-001-144 l aː ɣ
+isl-001-145 l a uː
+isl-001-146 t aː l a
+isl-001-147 œː l
+isl-001-148 m ɪ lː a
+isl-001-149 l̥ a uː n a
+isl-001-150 e l̥ t a
+isl-001-151 q̠ ʏ t l̥
+isl-001-152 r a uː
+isl-001-153 v ɛː r a
+isl-001-154 c ɪ rː
+isl-001-155 r̥ a uː
+isl-001-156 ɛ r̥ t a
+isl-001-157 m a uː
+isl-001-158 k ɔː m a
+isl-001-159 k ɔ mː a
+isl-001-160 k ɔː m
+isl-001-161 f i m t ɪ
+isl-001-162 n a uː
+isl-001-163 v aː n ɪ
+isl-001-164 l a uː n
+isl-001-165 m a nː ɪ
+isl-001-166 n̥ j ɛː
+isl-001-167 h œ b n̥
+isl-001-168 v a n̥ t a
+isl-001-169 θ ɪ ɲ ɟ ɪ
+isl-001-170 b a u ɲ c ɪ
+isl-001-171 θ i ŋ q̠
+isl-001-172 θ ɪ ŋ s
+isl-001-173 r̥ i ŋ̥ t

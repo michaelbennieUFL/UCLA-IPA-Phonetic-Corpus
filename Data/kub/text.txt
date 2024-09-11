@@ -1,0 +1,29 @@
+kub-000-000 b a p a p
+kub-000-001 b a k͡p a k
+kub-000-002 b a b a
+kub-000-003 b a t a
+kub-000-004 b a t s a
+kub-000-005 b a z a p
+kub-000-007 b a ʒ a p
+kub-000-008 b a k a
+kub-000-011 b a n d a
+kub-000-013 b a ŋ ɡ a k
+kub-000-014 b a m a
+kub-000-015 u n a
+kub-000-016 b a ɲ a ŋ
+kub-000-017 b a ŋ a ŋ
+kub-000-018 b a f a
+kub-000-019 b a s a
+kub-000-020 b a s k a p
+kub-000-021 b a ʃ a
+kub-000-022 b a r a
+kub-000-023 b a j a
+kub-000-024 b a w a m
+kub-000-025 b a n dʷ a p
+kub-000-026 b a pʷ a
+kub-000-027 b a bʷ a
+kub-000-028 b a tʷ a p
+kub-000-029 b a t s f a p
+kub-000-032 b a ŋ ɡʷ a
+kub-000-033 b a ŋʷ a ŋ
+kub-000-034 b a s f a

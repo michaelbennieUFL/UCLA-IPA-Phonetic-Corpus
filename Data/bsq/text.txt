@@ -1,0 +1,24 @@
+bsq-002-000 s u
+bsq-002-001 z u
+bsq-002-003 v ɛ̃
+bsq-002-004 h ɔ
+bsq-002-005 h w ɔ
+bsq-002-006 h w i e
+bsq-002-007 x w l i
+bsq-002-008 d͡ʒ e
+bsq-002-009 t͡ʃ a
+bsq-002-010 w a
+bsq-002-011 x w a
+bsq-002-012 w ɛ
+bsq-002-013 h w ɛ
+bsq-002-014 x w ɛ
+bsq-002-015 b o
+bsq-002-016 q̠ b o
+bsq-002-017 p a p a
+bsq-002-019 m a n a
+bsq-002-020 q̠ m a
+bsq-002-021 b a
+bsq-002-023 pʰ l ɔ n ɔ
+bsq-002-024 k͡p ɔ
+bsq-002-025 m ɛ ɛ n
+bsq-002-026 q̠ m ɛ

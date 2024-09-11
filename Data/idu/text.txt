@@ -1,0 +1,48 @@
+idu-003-000 a ɡ b a h a
+idu-003-001 a ɡ b e i p o i
+idu-003-002 a ɡ b ɛ h i i
+idu-003-003 i ɡ b i
+idu-003-004 a q̠ b o
+idu-003-005 a q̠ b ɔ
+idu-003-006 o ɡ b u d u
+idu-003-007 o t u k p a
+idu-003-010 a k p ɛ t ɛ t̪
+idu-003-011 e k p e
+idu-003-012 a k p i t i
+idu-003-013 e k p o
+idu-003-014 ɔ k p ɔ t ɔ t̪ k w u
+idu-003-015 o t u k p o
+idu-003-016 o p a a k p ɔ t ɔ i b i
+idu-003-018 ŋ m a
+idu-003-019 i k p u k p u
+idu-003-022 o ŋ m i i n i
+idu-003-023 o ŋ m o o t u k p o
+idu-003-024 a ŋ m ɔ
+idu-003-025 o ŋ m u m i j e
+idu-003-026 ɛ p a
+idu-003-029 a p ɛ
+idu-003-030 a p ɛ
+idu-003-031 e p e l i p e
+idu-003-032 i p i
+idu-003-033 i p o o t u k p o
+idu-003-034 ɛ p ɔ
+idu-003-035 ɔ p u
+idu-003-036 a d a
+idu-003-037 o d e
+idu-003-038 ɛ ɡ ɛ d ɛ
+idu-003-039 i d i n d i
+idu-003-040 i d o k o
+idu-003-041 i d ɔ m a
+idu-003-042 ɛ t a
+idu-003-043 a t e e p u
+idu-003-044 ɛ t ɛ
+idu-003-045 u t i h i
+idu-003-046 i t o d o
+idu-003-047 i t o d ɛ b ɛ
+idu-003-048 ɔ t ɔ
+idu-003-049 i t u
+idu-003-050 a k a
+idu-003-051 a k ɛ ɛ ɡ l ɛ
+idu-003-052 a k e k l e i
+idu-003-054 i k i n a b ɔ
+idu-003-055 i k o k o

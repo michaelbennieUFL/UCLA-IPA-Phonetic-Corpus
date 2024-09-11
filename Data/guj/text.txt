@@ -1,0 +1,60 @@
+guj-000-000 k a ɖ o
+guj-000-001 k h a ɖ o
+guj-000-002 ɡ ə ɽ ʌ
+guj-000-003 ɡ h ə ɽ ʌ
+guj-000-004 d͡ʒ a ɭ
+guj-000-005 t͡ʃ h a ɭ
+guj-000-006 d͡ʒ a ɾ i
+guj-000-007 d͡ʒ h a ɻ ɖ
+guj-000-008 v a t̪ʰ
+guj-000-009 h ɑ t̪ʰ
+guj-000-010 ʌ ɖ i
+guj-000-011 ʌ ɖ h i
+guj-000-012 ʌ ɳ ɖ ə ɹ ɳ u
+guj-000-013 ʌ ɳ ɖ h a ɹ u
+guj-000-014 ɳ a ɳ ɔ
+guj-000-015 m a ɳ ɔ
+guj-000-016 p a s
+guj-000-017 f a s
+guj-000-018 v a s
+guj-000-019 ɓ ə ɽ ə
+guj-000-020 ɓ h ə ɽ ə
+guj-000-021 m e ɭ
+guj-000-022 m e ɻ
+guj-000-023 r̥ a t̪ o
+guj-000-024 l a t̪ o
+guj-000-025 h ə ʃ ʌ
+guj-000-026 h ə ʂ ʌ
+guj-000-027 p u t͡ʃ v ɑ
+guj-000-028 p u ʂ p ɑ
+guj-000-029 ɹ ə m ə t ʌ
+guj-000-030 k ə m i ɽ a
+guj-000-031 k ʌ m ə ɽ a
+guj-000-032 ə ʂ ə m a n
+guj-000-033 ə ʂ ʌ m a n
+guj-000-034 r ɑ kʰ
+guj-000-035 r ɑ k j
+guj-000-036 d͡ʒ a i
+guj-000-037 d͡ʒ a w
+guj-000-038 m ɑ m ɑ
+guj-000-039 m ɑ m i
+guj-000-040 k ə v iː
+guj-000-041 r̥ ə v i
+guj-000-042 ə v iː
+guj-000-043 u p ʌ ɖ ɔ
+guj-000-044 r̥ uː p ʌ
+guj-000-045 ɗ ɛ ʃ
+guj-000-046 ɓ e s
+guj-000-047 q̠ ɔ ɹ
+guj-000-048 q̠ o ɹ
+guj-000-049 k a tʰ
+guj-000-050 k ã tʰ
+guj-000-051 v ɑ ʃ
+guj-000-052 v ɑ ʃ
+guj-000-053 t ʒ o kʰ
+guj-000-054 t ʒ õ kʰ
+guj-000-055 k ɑ n
+guj-000-057 v eː ɹ ɳ
+guj-000-059 v e ɹ
+guj-000-060 v e h ɹ
+guj-000-061 v e ɹ

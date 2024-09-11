@@ -1,0 +1,127 @@
+yue-009-000 tʰ m
+yue-009-001 tʰ n
+yue-009-002 t͡ʃ i p
+yue-009-003 t͡ʃ i
+yue-009-004 t͡ʃʰ i
+yue-009-005 j i
+yue-009-006 t͡ʃ i t
+yue-009-008 s ŋ
+yue-009-009 j i t
+yue-009-010 s k
+yue-009-011 s i
+yue-009-012 t͡ʃʰ ŋ
+yue-009-013 l ŋ
+yue-009-014 pʰ n
+yue-009-015 k n
+yue-009-016 w n
+yue-009-017 b n
+yue-009-020 k w
+yue-009-021 k w
+yue-009-022 f t
+yue-009-023 d͡ʒ i
+yue-009-024 tʰ ɛ k
+yue-009-025 pʰ ɛ ŋ
+yue-009-026 l ɛː ŋ
+yue-009-027 tʰ ɛ k
+yue-009-028 t͡ʃ ɛ
+yue-009-029 kʰ ə t
+yue-009-030 t͡ʃ ə t
+yue-009-031 s ə p
+yue-009-032 s ə n
+yue-009-033 s ə m
+yue-009-034 m ə t
+yue-009-035 f ə n
+yue-009-036 h ə n
+yue-009-037 m ə n
+yue-009-038 ŋ ə n
+yue-009-039 b ə n
+yue-009-040 k ə n
+yue-009-041 w ə n
+yue-009-042 j ə n
+yue-009-043 b ə n
+yue-009-044 t ə ŋ
+yue-009-045 pʰ ə ŋ
+yue-009-046 tʰ ə n
+yue-009-047 t͡ʃʰ ə n
+yue-009-048 kʰ ə n
+yue-009-049 t͡ʃ ə n
+yue-009-050 t͡ʃ œ t
+yue-009-051 k w ə n
+yue-009-052 k w ə n
+yue-009-053 p aː t
+yue-009-054 t aː
+yue-009-055 m aː
+yue-009-057 f aː
+yue-009-058 s aː
+yue-009-059 h a k
+yue-009-060 n aː k
+yue-009-061 t aː ŋ
+yue-009-062 pʰ aː
+yue-009-063 m aː n
+yue-009-064 p aː n
+yue-009-065 ŋ aː n
+yue-009-066 t͡ʃʰ aː k
+yue-009-067 tʰ aː p
+yue-009-068 s aː m
+yue-009-069 ŋ aː p
+yue-009-070 b aː k
+yue-009-071 t aː n
+yue-009-072 h aː ŋ
+yue-009-074 l aː ŋ
+yue-009-075 pʰ aː ŋ
+yue-009-076 t͡ʃ aː m
+yue-009-077 tʰ aː m
+yue-009-078 t͡ʃ aː ŋ
+yue-009-079 tʰ aː m
+yue-009-080 t aː m
+yue-009-081 k w a n
+yue-009-082 b ɔː
+yue-009-083 pʰ ɔː
+yue-009-084 tʰ ɔː ŋ
+yue-009-086 k ɔː
+yue-009-087 l ɔː
+yue-009-088 l ɔː k
+yue-009-089 m ɔ ŋ
+yue-009-090 k ɔ n
+yue-009-092 l ø y
+yue-009-093 s ø n
+yue-009-094 t͡ʃ ø n
+yue-009-095 y œː
+yue-009-096 t͡ʃʰ œː ŋ
+yue-009-097 t͡ʃ œː ŋ
+yue-009-098 y yː
+yue-009-099 t͡ʃ ɔ
+yue-009-100 w ə n
+yue-009-101 k ə m
+yue-009-102 h a p
+yue-009-103 l a p
+yue-009-104 q̠ w a
+yue-009-105 s e
+yue-009-106 kʰ e
+yue-009-107 l e
+yue-009-108 t e
+yue-009-109 s a
+yue-009-110 m e
+yue-009-111 l ɔː
+yue-009-112 m aː
+yue-009-113 s i u
+yue-009-114 k o
+yue-009-115 tʰ o u
+yue-009-116 t a
+yue-009-117 s y u
+yue-009-118 t œ
+yue-009-119 l ø y
+yue-009-120 k a
+yue-009-121 k aː
+yue-009-122 j a u
+yue-009-124 b ə n
+yue-009-125 t ə ŋ
+yue-009-126 k ə n
+yue-009-127 f ə n
+yue-009-128 s ə n
+yue-009-129 h ə n
+yue-009-130 m ə n
+yue-009-131 n a m
+yue-009-132 ŋ ə n
+yue-009-133 j ə n
+yue-009-134 w ə n

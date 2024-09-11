@@ -1,0 +1,49 @@
+mak-000-000 p i n a ŋ a
+mak-000-001 b i n a ŋ a
+mak-000-002 t u t u
+mak-000-003 d u d u
+mak-000-004 s i k a ŋ k a ŋ
+mak-000-005 s i q̠ a ŋ q̠ a ŋ
+mak-000-006 s e q̠ a ŋ
+mak-000-007 m a n a
+mak-000-009 ŋ a i
+mak-000-011 d͡ʒ a i
+mak-000-012 l o m p o
+mak-000-013 r i
+mak-000-014 n j a m a ŋ
+mak-000-015 h a l l a l a ʔ
+mak-000-020 m a n n a
+mak-000-021 b a l l o ʔ
+mak-000-022 m a n n a
+mak-000-023 s e q̠ a ŋ
+mak-000-024 s e ʔ r e a
+mak-000-025 s i k a l i
+mak-000-026 p o k o ʔ
+mak-000-027 d u d u
+mak-000-028 t a i p a
+mak-000-029 t a i p a i j a
+mak-000-030 t a u
+mak-000-031 b a i n e
+mak-000-032 t o a n a
+mak-000-033 l o m p o a
+mak-000-034 t a l l u a
+mak-000-035 t i n q̠ i a
+mak-000-036 s e ʔ r e a
+mak-000-037 b o e ʔ
+mak-000-038 p a l u
+mak-000-039 p a l u
+mak-000-040 b a t u
+mak-000-042 a n d i ʔ
+mak-000-044 p a ʔ r a s a ŋ a ŋ a
+mak-000-045 n i a ʔ
+mak-000-046 k a m a r a ʔ
+mak-000-047 d a m a r a ʔ
+mak-000-048 s e ʔ r e a
+mak-000-049 p o k o ʔ
+mak-000-050 l a b u ʔ
+mak-000-051 l a ʔ b u
+mak-000-052 r a p i ʔ
+mak-000-054 a r e ŋ k u
+mak-000-055 k a m a r a ʔ
+mak-000-057 r i n n i
+mak-000-058 t i n d r o

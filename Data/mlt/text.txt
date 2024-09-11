@@ -1,0 +1,93 @@
+mlt-000-018 b a ŋ k
+mlt-000-026 v aː v a
+mlt-000-027 v aː v i
+mlt-000-028 s a f a r
+mlt-000-034 ʃ a l̪ p a
+mlt-000-035 ʒ b i n t̪
+mlt-000-036 ʒ d iː d iː
+mlt-000-037 ħ a l̪ ʔ
+mlt-000-038 ħ a m b a ʔ
+mlt-000-039 ħ a pː
+mlt-000-042 t s iː j a
+mlt-000-043 t s o kː
+mlt-000-044 d z oː n a
+mlt-000-045 m e d z a n iː n
+mlt-000-047 t͡ʃ aː r
+mlt-000-048 t͡ʃ a sː
+mlt-000-049 t͡ʃ e k t͡ʃ e k
+mlt-000-050 t͡ʃ e k t͡ʃ iː k
+mlt-000-051 d͡ʒ a rː
+mlt-000-052 d͡ʒ e nː
+mlt-000-053 b a l̪ː u
+mlt-000-054 m iː l̪
+mlt-000-055 f uː l̪
+mlt-000-056 w a ɾ a
+mlt-000-057 w e n t s
+mlt-000-058 d w aː l̪
+mlt-000-059 f w aː r
+mlt-000-060 t w iː l̪
+mlt-000-061 d j aː r
+mlt-000-062 b j aː r
+mlt-000-063 ħ j aː r
+mlt-000-064 r e p ħ
+mlt-000-065 r e bː i ə ħ
+mlt-000-067 d a ɾ a
+mlt-000-068 d aː ɾ a
+mlt-000-069 d͡ʒ a ɾ a
+mlt-000-070 d͡ʒ aː ɾ a
+mlt-000-071 ħ a ɾ a
+mlt-000-072 ħ aː ɾ a
+mlt-000-073 m e t̪ a
+mlt-000-074 b e n̪ a
+mlt-000-075 m e r a
+mlt-000-076 s e m a
+mlt-000-077 ʃ e n ã
+mlt-000-078 ʃ eː n ã
+mlt-000-079 b i n i
+mlt-000-080 b iː n i
+mlt-000-081 t i n i
+mlt-000-082 t iː n i
+mlt-000-085 m oː d̪ a
+mlt-000-086 o ħ r a j n
+mlt-000-087 o ħ t̪
+mlt-000-088 o mː
+mlt-000-089 b uː t̪
+mlt-000-090 b uː s
+mlt-000-091 ħ uː t̪
+mlt-000-092 b i d u
+mlt-000-093 f e l̪ u
+mlt-000-094 ħ e l̪ u
+mlt-000-095 a u t uː r
+mlt-000-096 a u d i t uː r
+mlt-000-097 a u r i n aː r
+mlt-000-098 s a u t̪
+mlt-000-099 ʔ a u t̪
+mlt-000-100 r a u t̪
+mlt-000-101 s o ɞ a
+mlt-000-102 s o ɞ w a
+mlt-000-103 l̪ o ɞ a
+mlt-000-105 ʃ ɪ u j a
+mlt-000-106 d̪ ɪ u j a
+mlt-000-107 kʲ ɪ u j a
+mlt-000-108 t̪ʲ ɪ u j a
+mlt-000-109 ħ a ɪ t̪
+mlt-000-110 t a ɪ t̪
+mlt-000-111 ħ a ɪ r
+mlt-000-112 t a ɪ r
+mlt-000-113 b e ɪ t̪
+mlt-000-114 b e ɪ n̪
+mlt-000-115 d e ɪ l̪
+mlt-000-116 d e ɪ n̪
+mlt-000-117 b ɪ ə p b ɪ ə b
+mlt-000-118 s ɪ ə p s ɪ ə b
+mlt-000-121 b a hː
+mlt-000-122 b a ʔ a
+mlt-000-123 b a ʔː a
+mlt-000-124 ʔ a b e s
+mlt-000-125 ʔ a bː e s
+mlt-000-126 b ɪ tː ʃ a
+mlt-000-127 t͡ʃ ɪ tː ʃ a
+mlt-000-130 ħ e dː ʒ a
+mlt-000-133 p t a ɾ a m
+mlt-000-134 q̠ b a r
+mlt-000-135 d b e n d͡ʒ iː l̪

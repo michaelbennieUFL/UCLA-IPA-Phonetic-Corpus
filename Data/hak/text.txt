@@ -1,0 +1,40 @@
+hak-000-001 p ɑ
+hak-000-002 pʰ ɔ n
+hak-000-003 f a
+hak-000-004 t a
+hak-000-005 t ɔ
+hak-000-006 t ɔ
+hak-000-007 t ɔ
+hak-000-008 tʰ ɔ
+hak-000-011 t s i a u
+hak-000-012 s i a u
+hak-000-013 l ɔ
+hak-000-014 k ɔ
+hak-000-015 kʰ ɔ ŋ
+hak-000-016 h ɔ
+hak-000-017 w a i ŋ w a i
+hak-000-018 m a
+hak-000-019 n a h i
+hak-000-020 ŋ a ɪ
+hak-000-021 ŋ̩
+hak-000-022 h̩ ŋ
+hak-000-023 f a i
+hak-000-024 t sʰ u ŋ
+hak-000-025 t sʰ i a
+hak-000-026 s u i
+hak-000-028 i a u
+hak-000-029 ŋ i
+hak-000-031 l ɔ t
+hak-000-032 k ɔ
+hak-000-033 l u
+hak-000-036 ŋ a ɪ
+hak-000-037 tʰ ɔ i v a n
+hak-000-038 t a l ɔ n
+hak-000-039 tʰ ɛ u n a
+hak-000-040 t s i a ŋ
+hak-000-041 l i a u
+hak-000-042 s i u
+hak-000-043 k u a
+hak-000-044 s u i
+hak-000-045 t s ɛ
+hak-000-046 t s ɛ t s ɛ

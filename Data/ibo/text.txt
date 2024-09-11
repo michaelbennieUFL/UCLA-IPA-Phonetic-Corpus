@@ -1,0 +1,48 @@
+ibo-008-000 i p a
+ibo-008-001 i p h a
+ibo-008-002 i b e
+ibo-008-004 i m a
+ibo-008-007 i v u
+ibo-008-008 i ṽ u
+ibo-008-009 i t e
+ibo-008-010 i t h e
+ibo-008-011 i d e
+ibo-008-013 i s a
+ibo-008-014 a ʃ i
+ibo-008-016 i ʃ i i i s i i
+ibo-008-017 i z u
+ibo-008-018 o ʒ i o z i
+ibo-008-019 i z̃ u
+ibo-008-021 a n u
+ibo-008-022 i r i
+ibo-008-024 i l i
+ibo-008-025 a ɲ a
+ibo-008-026 i j o
+ibo-008-027 i k a
+ibo-008-028 i k h a
+ibo-008-029 i ɡ a
+ibo-008-031 a ɣ a
+ibo-008-032 i ŋ u
+ibo-008-033 o k p u
+ibo-008-034 u ɡ b o
+ibo-008-035 i w e
+ibo-008-036 o h u
+ibo-008-037 i h i
+ibo-008-038 i m i
+ibo-008-039 i r i
+ibo-008-040 e w u
+ibo-008-041 e ɡ h o
+ibo-008-042 a s a a
+ibo-008-043 o d j o o
+ibo-008-044 o d o
+ibo-008-045 u k w u
+ibo-008-046 u k w u
+ibo-008-047 k w a
+ibo-008-048 i k w a
+ibo-008-049 i p j a
+ibo-008-050 o r j e
+ibo-008-051 i b h j a
+ibo-008-052 i b j e
+ibo-008-053 i b j a
+ibo-008-055 i d j e
+ibo-008-056 i d h j e

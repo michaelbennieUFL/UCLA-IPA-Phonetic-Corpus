@@ -1,0 +1,68 @@
+lav-000-001 b ɛ k ə
+lav-000-002 t ɛ k ə
+lav-000-003 d ɛ q̠ ə
+lav-000-004 c ɪ m ɛ n ɛ
+lav-000-005 ɟ ɪ m ɛ n ɛ
+lav-000-006 k ə ɾ ʊ
+lav-000-007 q̠ ə ɾ ʊ
+lav-000-008 a u k s t s
+lav-000-010 f a z ɛ
+lav-000-013 z ɪ l s
+lav-000-014 ʃ a u t
+lav-000-015 ʒ a u t
+lav-000-016 j a u k t
+lav-000-017 t e x n ɪ k ə
+lav-000-018 h a o s
+lav-000-019 t s ɛ ʎ ʊ
+lav-000-020 d z ɛ ʎ ʊ
+lav-000-023 l i m ɪ
+lav-000-024 l i n ɪ
+lav-000-025 l i ɲ ɪ
+lav-000-026 t s ɪ a m ə
+lav-000-027 t s ɪ a n ə
+lav-000-028 t s ɪ a ɲ ə
+lav-000-029 b ə ŋ k ə
+lav-000-030 b ə ŋ q̠ ə s
+lav-000-031 m ə l ʊ
+lav-000-032 m ə ʎ ʊ
+lav-000-033 q̠ a r ʃ
+lav-000-034 q̠ ə r s
+lav-000-035 l ɪ k ʊ
+lav-000-036 l i k ʊ
+lav-000-037 s v ɛ r ʊ
+lav-000-038 s v e r ʊ
+lav-000-040 s m e j ʊ
+lav-000-041 v æ d
+lav-000-042 æː d ʊ
+lav-000-043 k ə z ə s
+lav-000-044 k a z ə s
+lav-000-045 k ʊ r ʊ
+lav-000-046 k u r ʊ
+lav-000-047 ɔ p a l s
+lav-000-048 o p ɛ ɾ ə
+lav-000-049 k ɔ l ɔ n i ʊ l s
+lav-000-050 k o l o n s
+lav-000-051 a ɪ t ə
+lav-000-052 a u t ə
+lav-000-053 e ɪ t ə
+lav-000-054 ɪ a t ə
+lav-000-055 m u ɪ t ə
+lav-000-056 m u o k ə
+lav-000-057 b ɔ ɪ k o t s
+lav-000-058 p l ɪ u k ʃ a e t
+lav-000-059 s o u x o s
+lav-000-061 p l ã n s
+lav-000-062 p l a n s
+lav-000-063 s t ã v s
+lav-000-065 b r e k t
+lav-000-066 b r ẽ k a t
+lav-000-067 m a k t ɪ a s
+lav-000-068 m ã k o n ɪ s
+lav-000-069 t æ̃ː v s
+lav-000-070 t æ v
+lav-000-071 v ɪ a n aː d ɪ
+lav-000-072 v ɪ a n aː d ɪ
+lav-000-074 l ɪ j ə
+lav-000-075 l ɪ a t
+lav-000-076 l ɛ j ʊ
+lav-000-077 l eː j ʊ

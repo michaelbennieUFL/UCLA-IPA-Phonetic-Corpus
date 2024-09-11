@@ -1,0 +1,63 @@
+ibb-009-000 a b a
+ibb-009-002 i b a
+ibb-009-003 i b a
+ibb-009-004 i b a
+ibb-009-005 a n i e
+ibb-009-006 a t i n s a k
+ibb-009-007 a t u f i e n
+ibb-009-008 a j a ŋ
+ibb-009-009 a j e j i n
+ibb-009-010 b i a a ŋ a
+ibb-009-012 j i r e ŋ
+ibb-009-013 j o m m o
+ibb-009-014 j o m o
+ibb-009-015 ŋ w e w e p
+ibb-009-016 n e m e
+ibb-009-017 n e m m e
+ibb-009-018 n i e
+ibb-009-019 n u a i
+ibb-009-021 ɲ e r i j e
+ibb-009-022 ɲ a m a
+ibb-009-023 a t i n ŋ e k
+ibb-009-024 ŋ w a i
+ibb-009-025 m a i
+ibb-009-026 e m a n a
+ibb-009-027 m e ɣ e
+ibb-009-028 m i a k a
+ibb-009-030 m b ɛ
+ibb-009-031 m m ɛ
+ibb-009-032 n n ɛ
+ibb-009-033 n n ɛ
+ibb-009-034 n t ɛ
+ibb-009-035 ŋ k ɛ
+ibb-009-036 ɲ a
+ibb-009-037 ŋ w o
+ibb-009-038 ŋ k͡p ɔ
+ibb-009-039 ɲ ɲ a
+ibb-009-040 ɲ ɔ ŋ
+ibb-009-041 a ŋ w a
+ibb-009-042 ŋ w ɔ n
+ibb-009-043 ŋ w ɔ ŋ
+ibb-009-044 a ŋ w a a n
+ibb-009-045 m a n
+ibb-009-046 n ɨ m
+ibb-009-048 j ɛ m
+ibb-009-049 j ɔ m
+ibb-009-050 n ɛ k
+ibb-009-051 ɲ i m ɛ
+ibb-009-052 f ɛ n
+ibb-009-053 j a a ŋ
+ibb-009-054 f ɔ n
+ibb-009-055 f i ɔ n
+ibb-009-056 t i ɔ n
+ibb-009-057 t w ɛ n
+ibb-009-058 s w a n
+ibb-009-059 b ɔ ɣ ɔ
+ibb-009-060 b a n a
+ibb-009-061 b a ŋ a
+ibb-009-062 b e n e
+ibb-009-063 b o n o
+ibb-009-064 d o m o
+ibb-009-065 d ɔ n ɔ
+ibb-009-066 b e n i
+ibb-009-067 b ə n e

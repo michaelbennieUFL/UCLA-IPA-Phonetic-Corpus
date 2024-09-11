@@ -1,0 +1,75 @@
+klu-000-000 p a
+klu-000-001 b a
+klu-000-002 t a
+klu-000-003 d a
+klu-000-004 k a a
+klu-000-005 k͡p a
+klu-000-006 q̠ b a a
+klu-000-007 m a
+klu-000-008 n a
+klu-000-009 ŋ m a
+klu-000-010 ɲ a
+klu-000-011 f a k a
+klu-000-012 s a
+klu-000-013 c ç a
+klu-000-014 ɟ j a
+klu-000-015 w a
+klu-000-016 j a a
+klu-000-017 k͡p a
+klu-000-018 p a
+klu-000-019 q̠ b a a
+klu-000-020 b a
+klu-000-021 ŋ m a
+klu-000-022 m a
+klu-000-023 p ə ɽ a
+klu-000-024 b ə ɽ a
+klu-000-025 t ə ɽ a
+klu-000-026 d ə ɽ a
+klu-000-027 k ə ɽ a
+klu-000-028 k͡p ə ɽ a
+klu-000-029 q̠ b ə ɽ a
+klu-000-030 m ə n a
+klu-000-031 n ə ɽ a
+klu-000-032 ɲ ə n a
+klu-000-033 f ə ɽ a
+klu-000-034 s l a
+klu-000-035 c ç ə ɽ a
+klu-000-036 ɟ j ə ɽ a
+klu-000-037 w ə ɽ a
+klu-000-038 b w a
+klu-000-039 k w a
+klu-000-040 f w ɛ
+klu-000-041 s w a
+klu-000-042 ɟ j ə ɽ i
+klu-000-043 ɟ j ə ɽ e
+klu-000-044 ɟ j ə ɽ ɛ
+klu-000-045 ɟ j ə ɽ a
+klu-000-046 ɟ j ə ɽ u
+klu-000-047 ɟ j ə ɽ o
+klu-000-048 ɟ j ə ɽ ɔ
+klu-000-049 d o
+klu-000-050 t o̠ o̠
+klu-000-051 t ɔ
+klu-000-052 p o
+klu-000-053 p õ
+klu-000-054 t u
+klu-000-055 t ũ
+klu-000-056 t i
+klu-000-057 t ĩ
+klu-000-058 t ɔ
+klu-000-059 t ɔ̃
+klu-000-060 k a a
+klu-000-061 k ã
+klu-000-062 t ɛ
+klu-000-063 t ɛ̃
+klu-000-064 w a
+klu-000-065 w̃ a
+klu-000-066 ɔ m u
+klu-000-067 ɔ ɔ m u
+klu-000-068 s l a n a w̃ a
+klu-000-069 s l a n a a w̃ a
+klu-000-070 ɔ ɟ j ə ɽ ɛ ɛ t i
+klu-000-071 ɔ ɟ j ə ɽ ɛ t i i
+klu-000-072 ɔ t ɛ̃ n ɛ
+klu-000-073 ɔ t ɛ̃ n ɛ
+klu-000-074 ɔ t ɛ̃ ʔ n ɛ

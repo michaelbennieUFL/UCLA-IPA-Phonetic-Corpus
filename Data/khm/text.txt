@@ -1,0 +1,70 @@
+khm-000-000 k ɔː
+khm-000-001 kʰ ɔː
+khm-000-002 k oː
+khm-000-003 kʰ ũ m
+khm-000-004 ŋ õ wː
+khm-000-006 t͡ʃ ɔː
+khm-000-007 t͡ʃʰ ɔː
+khm-000-008 t͡ʃ u ə k
+khm-000-009 t͡ʃ p
+khm-000-010 ɲ ɔ̃ː y
+khm-000-011 ɲ p
+khm-000-012 ɗ ɔː
+khm-000-014 d iː t
+khm-000-015 n ã
+khm-000-016 t ɔː
+khm-000-017 tʰ ɔ̃ ŋ
+khm-000-018 t oː
+khm-000-019 tʰ ɲ
+khm-000-020 ɲ ɔ̃ p
+khm-000-022 p ɔ̃ː ŋ
+khm-000-023 pʰ ɔ̃ː ŋ
+khm-000-024 p õː ŋ
+khm-000-025 pʰ u ə k
+khm-000-026 m ɔ̃ː k
+khm-000-027 m ã k
+khm-000-028 y oː k
+khm-000-029 y ɔː
+khm-000-031 r eː v
+khm-000-032 r oː k
+khm-000-033 r ɯː
+khm-000-034 s ɔː
+khm-000-035 l ɯː
+khm-000-036 v ɔː k
+khm-000-037 v iː ə
+khm-000-038 s ɔː k
+khm-000-039 s oː k
+khm-000-040 h iː ə
+khm-000-041 h iː ə̃ n
+khm-000-042 l ɔː
+khm-000-043 ʔ ɔ̃ ŋ
+khm-000-044 ʔ uː ʔ uː
+khm-000-045 n ĩ ə l ɛ k aː
+khm-000-047 k r ɔ n m ɔ̃ k
+khm-000-049 tʰ n o t
+khm-000-050 tʰ õ m
+khm-000-052 kʰ p u ə
+khm-000-055 kʰ t͡ʃ ɑ l
+khm-000-057 t͡ʃ ə b ɑ̃ ŋ
+khm-000-058 k ẽ n n õ ŋ
+khm-000-059 t͡ʃ iː k
+khm-000-061 l e ŋ
+khm-000-062 k m eː ŋ
+khm-000-063 l e ŋ
+khm-000-064 l ɯː
+khm-000-065 t͡ʃ ɨ ə
+khm-000-067 m ĩ n
+khm-000-068 k aː
+khm-000-069 kʰ m a
+khm-000-070 k aː ə t
+khm-000-071 t͡ʃ oː
+khm-000-072 k ɔː
+khm-000-073 t uː k
+khm-000-077 r ɔː k
+khm-000-085 t o k
+khm-000-086 k õ n
+khm-000-090 t͡ʃ aː p
+khm-000-092 t uː k
+khm-000-093 t o k
+khm-000-094 n i h
+khm-000-095 t͡ʃ i h

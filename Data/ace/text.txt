@@ -1,0 +1,39 @@
+ace-000-000 p a d j a n
+ace-000-001 p a d j o h
+ace-000-002 s a m p o h
+ace-000-003 l e u h o p
+ace-000-004 b a t e i
+ace-000-007 t a k o t
+ace-000-008 t a m o n q̠
+ace-000-009 b u t a
+ace-000-010 b a t a t
+ace-000-011 d a d a
+ace-000-012 d a j a
+ace-000-013 a l e u h a t
+ace-000-014 k a m a
+ace-000-025 b a q̠ a h
+ace-000-026 s a b o h
+ace-000-027 b a s a h
+ace-000-028 p e u d a i h
+ace-000-029 l h o k
+ace-000-030 m a l a m
+ace-000-031 p a s a i
+ace-000-032 m a
+ace-000-033 l e u m a k
+ace-000-034 m a l a m
+ace-000-035 n a n
+ace-000-036 p e u n a n
+ace-000-037 n q̠ o n
+ace-000-038 b e u n q̠ a h
+ace-000-039 b u n q̠ o n q̠
+ace-000-040 w o
+ace-000-041 t j a w o
+ace-000-042 t o w o w
+ace-000-043 r a p
+ace-000-044 m i r a h
+ace-000-045 p a s a i
+ace-000-050 i
+ace-000-051 e q̠
+ace-000-052 a n e u k
+ace-000-053 u
+ace-000-061 b a n q̠ ã

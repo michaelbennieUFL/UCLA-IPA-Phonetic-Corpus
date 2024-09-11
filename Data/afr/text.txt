@@ -1,0 +1,124 @@
+afr-000-000 b i t
+afr-000-001 b i ə t
+afr-000-002 b ɛ t
+afr-000-003 b ɑ t
+afr-000-004 b o t
+afr-000-005 b ʊ k
+afr-000-006 b u ə̯ t
+afr-000-007 b ə t
+afr-000-008 b ə̟ i̯ t
+afr-000-009 b ʊ̟ ɪ t
+afr-000-010 b ə t o n
+afr-000-011 b ə t u ə n
+afr-000-012 t ɛ̞ l
+afr-000-013 t i ə̯ l
+afr-000-014 t o ɾ
+afr-000-015 t u ə̯ ɾ
+afr-000-016 n ʊ̠ t
+afr-000-017 n y t
+afr-000-018 b ɑ s
+afr-000-019 b ɑː s
+afr-000-020 b ɑ b ɑː ɾ
+afr-000-021 r ə̟ i̯ s
+afr-000-022 r ə̟ i̯ s
+afr-000-023 u ə̯ ɾ ə
+afr-000-024 k u ə̯ p
+afr-000-025 s k y r
+afr-000-026 s k ɛ̞ ɾ f
+afr-000-027 s k ɛ̞ ɾ
+afr-000-028 s k ɑː ɾ ə
+afr-000-029 s k o ɾ
+afr-000-030 s k u ə̯ ɾ
+afr-000-031 s k ə ɾ f
+afr-000-032 b ə̟ i̯
+afr-000-033 p ə̟ i̯
+afr-000-034 d ə̟ i̯
+afr-000-035 t ə̟ i̯
+afr-000-036 v ə̟ i̯
+afr-000-037 w ə̟ i̯
+afr-000-038 ɦ ə̟ i̯
+afr-000-039 ə̟ i̯
+afr-000-040 j ə̟ i̯
+afr-000-041 l ə̟ i̯
+afr-000-042 ə̟ i̯ l
+afr-000-043 ə̟ i̯ k
+afr-000-044 ə̟ i̯ s
+afr-000-045 p ɑː p i
+afr-000-046 p ɑ pʰ i
+afr-000-047 p ɑ s
+afr-000-048 p ɑː s
+afr-000-049 b ɑ ɾ
+afr-000-050 b ɑː ɾ
+afr-000-051 ɑ t
+afr-000-052 ɑː t
+afr-000-053 d ɑː χ l ə k s
+afr-000-054 d ɑ χ l ə χ
+afr-000-055 d ɑ l
+afr-000-056 d ɑː l
+afr-000-057 l ɛ̞
+afr-000-058 l ɑː
+afr-000-059 u i
+afr-000-060 ɔː i
+afr-000-061 b ɑː i̯ k i
+afr-000-062 b ɑː iː k i
+afr-000-063 b i k i
+afr-000-064 b i ɛ ŋ k i
+afr-000-065 b ɛ i̯ k i
+afr-000-066 b ə̟ i̯ k i
+afr-000-067 b ɛ̞ k i
+afr-000-068 ɦ ʊ̟ i̯ s
+afr-000-069 ʊ̟ i̯
+afr-000-070 ʊ̟ i̯ t
+afr-000-071 b ʊ̟ i̯ t
+afr-000-072 ʊ̟ i̯ t
+afr-000-073 s y r
+afr-000-074 f y r
+afr-000-075 m y r
+afr-000-076 d y r
+afr-000-077 b ɑː s
+afr-000-078 p ɑː s
+afr-000-079 b ɑ s
+afr-000-080 p ɑ s
+afr-000-081 b ɑ t
+afr-000-082 p ɑ t
+afr-000-083 b ɑː ɾ
+afr-000-084 p ɑː ɾ
+afr-000-085 p ɑː p
+afr-000-086 p ɑ pʰ i
+afr-000-087 d ɑ l
+afr-000-088 t ɑ l
+afr-000-089 d ɑː l
+afr-000-090 t ɑː l
+afr-000-091 d ɑ χ
+afr-000-092 t ɑ χ
+afr-000-093 d ɑ k
+afr-000-094 t ɑ k
+afr-000-095 f ɾ i s
+afr-000-096 f ɾ i s
+afr-000-097 f ɛ l
+afr-000-098 f ɛ l
+afr-000-099 f ɑ t
+afr-000-100 f ɑ t
+afr-000-101 χ l a d ə
+afr-000-102 χ l a t
+afr-000-103 b ɛ t
+afr-000-104 b ɛ t
+afr-000-105 b o t
+afr-000-106 b o t
+afr-000-108 ə b ə
+afr-000-109 z uː m
+afr-000-110 d ɑ χ
+afr-000-111 d ɑ k
+afr-000-112 t ɑ p
+afr-000-113 t͡ʃ ɑ p
+afr-000-114 b ɑ χ ɑ s i
+afr-000-115 b ɑ χ ə r
+afr-000-116 ɛ r χ
+afr-000-117 ɛ r q̠ e ɾ
+afr-000-118 b ɛ r ɾ q̠ ə
+afr-000-119 q̠ w ɑ ɾ
+afr-000-120 χ ɑ ɾ s
+afr-000-121 s ə ŋ
+afr-000-122 d ɨ ŋ k
+afr-000-123 v ɑː i̯ ŋ k i
+afr-000-124 m ɑː i̯ ŋ k i

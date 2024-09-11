@@ -1,0 +1,134 @@
+lit-002-000 p a ă d a s
+lit-002-001 b ă a d a s
+lit-002-002 pʲ iː l a
+lit-002-003 bʲ iː l a
+lit-002-004 t ŭ u r s
+lit-002-005 d ŭ u r s
+lit-002-006 tʲ ĕ e tʲ s
+lit-002-007 dʲ ĕ e dʲ eː
+lit-002-008 k ă r d a s
+lit-002-009 ɡ ă r d a s
+lit-002-010 kʲ æ l tʲ
+lit-002-011 ɡʲ æ l tʲ
+lit-002-012 f ɔ nʲ ɛ m a
+lit-002-013 fʲ zʲ j ɔ l o ɡ a s
+lit-002-014 v oː nʲ j a
+lit-002-015 vʲ zʲ t a s
+lit-002-016 s lʲ tʲ iː s
+lit-002-017 z lʲ nʲ tʲ
+lit-002-018 sʲ æ n kʲ e
+lit-002-019 zʲ æ nʲ t a s
+lit-002-020 ʃ a l tʲ
+lit-002-021 ʒ a l tʲ
+lit-002-022 ʃʲ l a s
+lit-002-023 ʒʲ l a s
+lit-002-024 x oː ɾ a s
+lit-002-025 xʲ ɾ r ɡ a s
+lit-002-026 h a r m oː nʲ j a
+lit-002-027 hʲ m n a s
+lit-002-028 j ŏ o s
+lit-002-029 j s
+lit-002-030 t s k ɾ s
+lit-002-031 d z ŭ u k a s
+lit-002-032 t sʲ i i pʲ tʲ
+lit-002-033 d zʲ mʲ bʲ n tʲ
+lit-002-034 t͡ʃ a ʒʲ iː tʲ
+lit-002-035 d͡ʒ ă a z a s
+lit-002-036 t͡ʃʲ æ dʲ iː tʲ
+lit-002-037 d͡ʒʲ æ tʲ
+lit-002-038 m a m a
+lit-002-039 n a m ŏ o
+lit-002-040 m æ̆ æ s
+lit-002-041 nʲ æ s
+lit-002-042 l a ŋ ɡ a s
+lit-002-043 r a ŋ ɡ a
+lit-002-044 lʲ æ ŋʲ kʲ m a s
+lit-002-045 rʲ æ ŋʲ ɡʲ m a s
+lit-002-046 q̠ r a ʒ s
+lit-002-047 q̠ r aː ʒʲ nʲ tʲ
+lit-002-048 kʲ æ̆ æ s l a s
+lit-002-049 kʲ e ĕ s l a s
+lit-002-050 kʲ æ̆ æ sʲ tʲ
+lit-002-051 n ɾʲ s
+lit-002-052 n ɾʲ i ĭ tʲ
+lit-002-053 ɔ pʲ æ ɾ a
+lit-002-054 oː bʲ æ lʲ s
+lit-002-055 sʲ ŭ u sʲ tʲ
+lit-002-056 sʲ sʲ tʲ
+lit-002-057 tʲ k
+lit-002-058 tʲ k r ă i
+lit-002-059 nʲ æ
+lit-002-060 nʲ æ ʃʲ
+lit-002-061 m a n oː
+lit-002-062 k a d a
+lit-002-063 t ɔ r t a s
+lit-002-064 p ɔ lʲ tʲ k a
+lit-002-065 t
+lit-002-066 t ɾʲ
+lit-002-067 iː s tʲ ɾʲ ʒʲ ă
+lit-002-069 i ĭ s p uː dʲ s
+lit-002-070 dʲ eː k a
+lit-002-071 dʲ ĕ e dʲ eː
+lit-002-072 dʲ e ĕ tʲ
+lit-002-073 tʲ æː sʲ nʲ ĭ i s
+lit-002-074 kʲ æ̆ æ sʲ tʲ
+lit-002-075 s bʲ ɾʲ æ æ̆ sʲ tʲ
+lit-002-076 aː ʒ ɔ ə lʲ ɛ̞
+lit-002-077 ɡ ă a l a s
+lit-002-078 a ă ʒ ɔ ə l a s
+lit-002-079 p oː nʲ ɛ̞
+lit-002-080 p ŏ o n a s
+lit-002-081 t o ŏ k s
+lit-002-082 uː ʒʲ u
+lit-002-083 ŭ u ʃʲ tʲ
+lit-002-084 u ŭ ʃ t
+lit-002-085 l a kʲ ɛ̞
+lit-002-086 l ă k a s
+lit-002-087 k a ĭ m a s
+lit-002-088 l a kʲ ɛ̞
+lit-002-089 l ă k a s
+lit-002-090 l a kʲ tʲ
+lit-002-091 pʲ æ s ă a ʒ a s
+lit-002-092 pʲ æ̆ lʲ s
+lit-002-093 tʲ æ s e
+lit-002-094 pʲ æ t s
+lit-002-095 pʲ æ t uː s
+lit-002-096 pʲ æ̆ n a s
+lit-002-097 p k s
+lit-002-098 p kʲ æ
+lit-002-099 m s tʲ iː tʲ
+lit-002-100 ɔ ə ɡ a tʲ
+lit-002-101 r d ɔ ə
+lit-002-102 ɔ̆ ə q̠ a
+lit-002-103 k a l t a
+lit-002-104 k ă l t a s
+lit-002-105 k a l t a s
+lit-002-106 k a mʲ pʲ ɛ̞
+lit-002-107 k ă m p a s
+lit-002-108 k a m
+lit-002-109 tʲ n k a m a
+lit-002-110 tʲ n k a m a s
+lit-002-111 t ɾʲ tʲ ɛ̞
+lit-002-112 t ɾ t a s
+lit-002-113 d ă k
+lit-002-114 ʃ
+lit-002-115 l a ŋ ɡ a s
+lit-002-116 l æ ŋ k a s
+lit-002-117 nʲ æ ʃʲ t͡ʃʲ æ
+lit-002-118 nʲ æ ʒ d a v a
+lit-002-119 v æ ʃʲ tʲ
+lit-002-120 bʲ e kʲ tʲ
+lit-002-121 pʲ e ĕ ʃʲ t sʲ æ s
+lit-002-122 v a b ʒʲ d͡ʒʲ ŭ u
+lit-002-123 j a n a t a t a
+lit-002-124 j a n oː s t ă t oː s
+lit-002-125 p ŏ o pʲ æ ɾʲ s
+lit-002-126 p ŏ o pʲ æ ʒʲ s
+lit-002-127 a n tʲ s
+lit-002-128 ă n tʲ s
+lit-002-129 a ʃʲ tʲ
+lit-002-130 ă ʃʲ tʲ
+lit-002-131 k a r tʲ s
+lit-002-132 k ă r tʲ s
+lit-002-133 kʲ r tʲ
+lit-002-134 k r tʲ

@@ -1,0 +1,76 @@
+nan-004-000 p o
+nan-004-001 p e ʔ
+nan-004-002 t s a p
+nan-004-003 b e ʔ
+nan-004-004 b o
+nan-004-005 b ɪ t
+nan-004-006 pʰ æ ʔ
+nan-004-007 pʰ u t o
+nan-004-008 t e
+nan-004-009 b ɪ t
+nan-004-010 t sʰ ɪ t
+nan-004-011 d ɪ t
+nan-004-012 d i a t
+nan-004-013 tʰ ə ŋ
+nan-004-014 tʰ ɔ
+nan-004-015 k a
+nan-004-016 k a u
+nan-004-017 l a k
+nan-004-018 q̠ o
+nan-004-019 q̠ i a k
+nan-004-020 kʰ a
+nan-004-021 kʰ o
+nan-004-022 s ɔ ʔ
+nan-004-023 b e ʔ
+nan-004-024 p u e ʔ
+nan-004-025 s i
+nan-004-026 s ɞ t
+nan-004-027 t s ɪ t
+nan-004-028 t s i ʔ
+nan-004-029 t s i a u
+nan-004-030 d z a u
+nan-004-031 d z o
+nan-004-032 t sʰ ɪ t
+nan-004-033 t sʰ o
+nan-004-034 t͡ʃʰ i u
+nan-004-035 d z u i a ŋ
+nan-004-036 l a m
+nan-004-037 l a u p e
+nan-004-038 h ə ŋ
+nan-004-039 h i
+nan-004-040 t s ɪ t
+nan-004-041 m i
+nan-004-042 p e ʔ
+nan-004-043 t e
+nan-004-044 l a m
+nan-004-045 s a ʔ
+nan-004-046 s ɔ ʔ
+nan-004-047 p o
+nan-004-048 pʰ u t o
+nan-004-049 s ɞ t
+nan-004-050 pʰ ĩ
+nan-004-051 t s ĩ
+nan-004-052 s ã
+nan-004-053 k ĩ u
+nan-004-054 ĩ u
+nan-004-055 m i
+nan-004-056 l a m
+nan-004-057 n ə ŋ
+nan-004-058 t a n
+nan-004-059 a n
+nan-004-060 a ŋ k õ ŋ
+nan-004-061 ə ŋ
+nan-004-062 tʰ ə ŋ
+nan-004-063 ə ŋ
+nan-004-064 h ə ŋ
+nan-004-077 i a m
+nan-004-078 s i o
+nan-004-079 k ĩ u
+nan-004-080 d z a u
+nan-004-081 l a u p e
+nan-004-082 t o a
+nan-004-083 pʰ u e ʔ
+nan-004-084 t s u i a ŋ
+nan-004-085 t s i a u
+nan-004-086 kʰ i a u
+nan-004-087 i a u

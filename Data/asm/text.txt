@@ -1,0 +1,86 @@
+asm-003-005 h ɛ k ɑ n
+asm-003-008 x ɑ r
+asm-003-009 h ɑ r
+asm-003-010 x ɔ r ɔ n
+asm-003-012 x o r o p ɑ
+asm-003-013 h o r o p ɑ
+asm-003-014 x o r u ɑ
+asm-003-016 x u k i ɑ
+asm-003-017 h u k i ɑ
+asm-003-018 o x i s t ɔ
+asm-003-019 o h i t
+asm-003-020 ɔ x e x
+asm-003-021 ɔ h e t u k
+asm-003-022 ɛ x ɛ r
+asm-003-023 ɛ h ɛ r
+asm-003-024 ɔ x ɑ r
+asm-003-025 ɑ h ɑ r
+asm-003-032 o x u r
+asm-003-040 ɑ x u
+asm-003-041 ɑ h u
+asm-003-042 b ɑ x
+asm-003-043 b ɑ h
+asm-003-046 x ɑ̃ s o t i ɑ
+asm-003-047 h ɑ̃ s o t i
+asm-003-048 x i ŋ h ɔ
+asm-003-049 h i ŋ x ɔ k
+asm-003-050 x ɔ ŋ x ɑ r
+asm-003-051 x ɔ ŋ h ɑ r
+asm-003-054 k ɔ r x ɑ l
+asm-003-055 k ɔ r h ɑ
+asm-003-056 ɡ h ɔ r x i t ɔ
+asm-003-058 s i r ɑ
+asm-003-059 z i r ɑ
+asm-003-060 s e n i
+asm-003-061 z e n i
+asm-003-062 s ɛ k ɑ
+asm-003-063 z ɛ k ɑ
+asm-003-064 s ɑ l
+asm-003-065 z ɑ l
+asm-003-066 s ɔ k ɑ
+asm-003-067 z ɔ k ɑ
+asm-003-068 s o l ɑ
+asm-003-069 z o l ɑ
+asm-003-070 s ʊ r i ɑ
+asm-003-071 z ʊ r i ɑ
+asm-003-072 s u r i
+asm-003-073 z u r i
+asm-003-074 ʊ s i n
+asm-003-075 ʊ z i n
+asm-003-076 b e s e r i
+asm-003-078 l ɛ s ɛ r a
+asm-003-079 ɡ ɛ z ɛ r ɑ
+asm-003-080 ã s o r
+asm-003-081 ã z o r
+asm-003-082 m i s ʊ l i ɑ
+asm-003-083 b i z ʊ l u a
+asm-003-084 ɡ u s u ɑ
+asm-003-085 b u z u ɑ
+asm-003-090 k ɑ s i
+asm-003-091 k ɑ z i
+asm-003-092 x ɑ̃ s
+asm-003-093 x ɑ̃ z
+asm-003-094 q̠ ɔ s a
+asm-003-095 q̠ ɔ z a
+asm-003-096 b ɑ n s ɑ
+asm-003-097 ɑ n z ɑ
+asm-003-098 l e s u
+asm-003-099 l e z u
+asm-003-100 x ɑ̃ s õ
+asm-003-101 x ɑ̃ z õ
+asm-003-102 s ɔ h ɑ
+asm-003-103 z ɔ h ɑ
+asm-003-104 s i k a
+asm-003-106 x i h a
+asm-003-107 s a ɡ
+asm-003-108 z a ɡ
+asm-003-109 s ɔ h o a
+asm-003-110 z ɔ h o a
+asm-003-114 h o z a
+asm-003-115 x u z a
+asm-003-116 x ɔ i s j a
+asm-003-117 x ɔ i z j ɔ
+asm-003-118 ɔ x ɔ h ɔ z o ɡ
+asm-003-119 x ɑ z ɔ n k ɑ s ɔ n
+asm-003-120 s o ŋ
+asm-003-121 z o ŋ

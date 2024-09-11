@@ -1,0 +1,54 @@
+kea-000-002 p o t i̥
+kea-000-003 p o d i̥
+kea-000-004 t o ç
+kea-000-005 d o ç
+kea-000-006 f ɾ a ŋ k u̥
+kea-000-007 f ɾ a ŋ q̠ u̥
+kea-000-008 k ɔ m
+kea-000-009 q̠ ɔ m
+kea-000-010 t͡ʃ õ
+kea-000-011 d͡ʒ õ
+kea-000-012 ʃ a t u̥
+kea-000-013 ʒ a t u̥
+kea-000-014 k a s ɪ̥
+kea-000-015 k a zː
+kea-000-016 χ ɔ t͡ʃ
+kea-000-017 χ ɔ ʃ
+kea-000-018 χ ɔ sː
+kea-000-019 χ ɔ zː
+kea-000-020 p u l u
+kea-000-021 p u ʎ u̥
+kea-000-022 m a n ə̥
+kea-000-023 m a ɲ ə̥
+kea-000-024 k a m p a nː
+kea-000-025 k o m p a ɲ ə
+kea-000-026 m a w
+kea-000-027 n a w
+kea-000-028 ŋ k a ʃ ə
+kea-000-029 k a s ʃː
+kea-000-030 ŋ k ɔ χ ɛ t u̥
+kea-000-031 k ɔ χ ɛ t u̥
+kea-000-032 ŋ q̠ a n ə
+kea-000-033 q̠ a n ə̥
+kea-000-034 ə n t ɛ n d e
+kea-000-035 t ɛ n d e
+kea-000-036 n t ɛ n t ə
+kea-000-037 t ɛ n t ə
+kea-000-038 n d ɾ ɛ t ə
+kea-000-039 d ɾ ɛ t e̥
+kea-000-040 m p ɛ ɲ ə̥
+kea-000-041 p ɛ ɲ ə̥
+kea-000-042 m b ã ɲ ə̥
+kea-000-043 b ã ɲ ə̥
+kea-000-044 m b ɾ a s ə
+kea-000-045 b ɾ a s ə
+kea-000-046 p a t u̥
+kea-000-047 p ɛ t u̥
+kea-000-049 p u t u̥
+kea-000-050 s a k u̥
+kea-000-051 s ɛ k u̥
+kea-000-053 l ã ɲ ə
+kea-000-054 l ɛ ɲ ə̥
+kea-000-055 l ĩ ɲ ə̥
+kea-000-056 a t͡ʃ ə
+kea-000-057 ã t͡ʃ

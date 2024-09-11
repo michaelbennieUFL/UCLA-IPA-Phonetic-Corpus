@@ -1,0 +1,23 @@
+sbc-000-000 r ɑ r ɑ y
+sbc-000-001 r i u r i u
+sbc-000-002 r ɑ m a n
+sbc-000-003 r ɑ m u n
+sbc-000-004 p e ɾ i
+sbc-000-005 p ɑ r ɑ i
+sbc-000-006 r a k
+sbc-000-007 m b u w e n
+sbc-000-009 m b e n
+sbc-000-010 m b u l e i
+sbc-000-011 m b u r t e n
+sbc-000-012 m b u r k ɑ l
+sbc-000-013 m b ɛ ŋ k e i
+sbc-000-014 m b u l i m
+sbc-000-015 m b u s l e m e i
+sbc-000-016 m b u ŋ k ɑ n
+sbc-000-017 n d r o u
+sbc-000-018 n d r ɑ i
+sbc-000-019 n d r u w i n
+sbc-000-020 n d r i l ɛ ŋ
+sbc-000-021 n d r i k e i
+sbc-000-022 n d r o p
+sbc-000-023 n d r ɑ m e i

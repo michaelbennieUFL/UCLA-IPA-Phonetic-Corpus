@@ -1,0 +1,43 @@
+aeb-000-000 b a x iː l
+aeb-000-001 ħ ɑ l i b
+aeb-000-002 t iː n
+aeb-000-003 t a m a r
+aeb-000-006 d a r a b ə
+aeb-000-007 a r aː b ə
+aeb-000-009 k u r aː s ə t o n
+aeb-000-011 w aː q a f ə
+aeb-000-015 m e i l
+aeb-000-021 ð e l ə
+aeb-000-022 ð ə l ə
+aeb-000-023 s e r i r
+aeb-000-024 s a r i r
+aeb-000-025 ʃ e i n
+aeb-000-026 ʃ a ʕ b
+aeb-000-029 ʒ a u z
+aeb-000-030 r a ʒ u l o n
+aeb-000-031 x aː l i
+aeb-000-032 x æː f ə x ə
+aeb-000-033 æ x a d ə
+aeb-000-034 ɣ a l a b ə
+aeb-000-035 ɣ aː l i
+aeb-000-039 ʕ a i n
+aeb-000-040 ʕ a d ə
+aeb-000-041 n a b a h ə
+aeb-000-042 h æ m i s ə
+aeb-000-043 w aː s a ʕ
+aeb-000-044 w ə k t ɯ b
+aeb-000-045 w ə
+aeb-000-046 j ə k t ɯ b u
+aeb-000-047 r a ʒ u l o n
+aeb-000-048 æ k æ l ə
+aeb-000-049 s æ ʔ ə l ə
+aeb-000-050 æː m ə n ə
+aeb-000-051 s æː ʔ ə l ə
+aeb-000-053 s æ ʔ i m ə
+aeb-000-054 iː m æ n
+aeb-000-055 s æ ʔ iː m
+aeb-000-057 b ə ʔ s
+aeb-000-059 r ə ʔ uː s
+aeb-000-060 a i q a ð ə
+aeb-000-061 a u
+aeb-000-062 a u ʃ aː

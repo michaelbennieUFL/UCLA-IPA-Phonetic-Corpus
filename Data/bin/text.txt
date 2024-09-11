@@ -1,0 +1,24 @@
+bin-001-000 o p i a
+bin-001-001 o k͡p i a
+bin-001-002 ɔ b a
+bin-001-003 ɔ ɡ͡b a
+bin-001-004 a t a
+bin-001-005 a d a
+bin-001-006 a k o
+bin-001-007 o ɡ i
+bin-001-008 e m a
+bin-001-009 o n a
+bin-001-010 i ɲ a
+bin-001-011 a ŋ w a a
+bin-001-012 ɛ f ɛ
+bin-001-013 e w a
+bin-001-014 e ʋ a
+bin-001-015 e v a
+bin-001-016 ɛ s e i
+bin-001-017 ɛ z ɛ
+bin-001-018 o x a
+bin-001-019 o ɣ o
+bin-001-020 o h a
+bin-001-021 a l a z i
+bin-001-022 a ɹ̝ a
+bin-001-023 a ɹ a b a

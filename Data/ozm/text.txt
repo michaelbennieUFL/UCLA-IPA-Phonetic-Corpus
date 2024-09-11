@@ -1,0 +1,27 @@
+ozm-000-000 e t ɪ
+ozm-000-001 e d ɪ ɪ
+ozm-000-002 e b e
+ozm-000-003 e b e e
+ozm-000-004 e l ɛ e
+ozm-000-007 e l ɯ̈ ɯ̈
+ozm-000-008 n k ö ö
+ozm-000-009 e l ö ö
+ozm-000-010 e l a
+ozm-000-011 e l a a
+ozm-000-012 e l u
+ozm-000-013 j u u
+ozm-000-014 e l ɯ
+ozm-000-016 e l o l o
+ozm-000-018 l ɔ ɔ
+ozm-000-020 e b e e t i r
+ozm-000-021 m e o t o
+ozm-000-022 n ɔ n
+ozm-000-023 e b e e m ʉ d
+ozm-000-024 m w a n
+ozm-000-025 m ʉ d
+ozm-000-027 e b e e m ʉ r
+ozm-000-028 e b e e p e m e
+ozm-000-029 e b e p e m e
+ozm-000-030 e l i p e m e
+ozm-000-031 m e o t o
+ozm-000-032 l æ l a m a

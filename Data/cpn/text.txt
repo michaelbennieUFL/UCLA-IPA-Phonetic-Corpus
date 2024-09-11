@@ -1,0 +1,63 @@
+cpn-000-002 ɛ b ɪ
+cpn-000-003 a b ɪ
+cpn-000-004 a b a a
+cpn-000-005 a d ɛ
+cpn-000-006 a d ɔ
+cpn-000-007 ɔ d e
+cpn-000-008 i d i
+cpn-000-009 ɛ d ɛ
+cpn-000-010 ɔ f a
+cpn-000-012 e f e r i
+cpn-000-013 e f ũ
+cpn-000-014 ɛ f ɛ
+cpn-000-015 a h ɛ
+cpn-000-016 ɛ h ɛ
+cpn-000-017 i h i
+cpn-000-018 i h u
+cpn-000-019 a k ɛ
+cpn-000-020 i k o
+cpn-000-021 a k u
+cpn-000-022 ɛ k ɔ
+cpn-000-023 ɔ l ɛ
+cpn-000-024 a l ɛ
+cpn-000-025 a l ɛ
+cpn-000-026 æ l i
+cpn-000-027 ɔ l a
+cpn-000-028 ɛ m ɛ
+cpn-000-029 ɔ m e
+cpn-000-030 a m ɪ
+cpn-000-031 ɔ n a
+cpn-000-032 o n i
+cpn-000-033 a n i
+cpn-000-034 a n i
+cpn-000-035 a n o
+cpn-000-036 a s a
+cpn-000-037 ɔ s o
+cpn-000-038 a s i
+cpn-000-039 a s ɔ
+cpn-000-040 o s u
+cpn-000-043 ɪ t o
+cpn-000-044 a t õ
+cpn-000-045 ɔ t ɛ
+cpn-000-046 i w̃ a
+cpn-000-047 a w i
+cpn-000-048 ɔ w ɔ
+cpn-000-049 ɔ w̃ a
+cpn-000-050 a y i
+cpn-000-051 a j ɪ ɛ
+cpn-000-052 a y u
+cpn-000-053 o d̠ ɥ e
+cpn-000-054 ɛ ɟ ɪ
+cpn-000-055 i ɟ i r a
+cpn-000-056 a t̠ ɕ ɔ
+cpn-000-057 a t̠ ɕ u
+cpn-000-058 n t̠ ɕ u
+cpn-000-059 t̠ ɕ u
+cpn-000-060 a k y i
+cpn-000-061 k y a
+cpn-000-062 k ỹ ɛ
+cpn-000-063 a k͡p a
+cpn-000-064 a k͡p e
+cpn-000-065 ɛ k͡p ɛ
+cpn-000-066 o ɲ a
+cpn-000-067 e n y ɔ

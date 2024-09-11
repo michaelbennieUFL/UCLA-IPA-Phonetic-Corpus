@@ -1,0 +1,42 @@
+ces-004-000 p ʌ s
+ces-004-001 b ʌ s
+ces-004-002 t̪ aː t
+ces-004-003 d aː t̪
+ces-004-004 tʲ ɛ l ɔ
+ces-004-005 dʲ ɛ l ɔ
+ces-004-006 tʲ iː ʒ ɛ
+ces-004-007 dʲ iː ʒ ɛ
+ces-004-008 k aː ʒ ɛ
+ces-004-009 q̠ aː ʒ ɛ
+ces-004-010 f aː t͡ʃ
+ces-004-011 v aː t͡ʃ ɛ k
+ces-004-012 f r ʌ k
+ces-004-013 v r ʌ k
+ces-004-014 s o t̪
+ces-004-015 z o t̪
+ces-004-016 ʃ ɛ l
+ces-004-017 ʒ ɛ l
+ces-004-018 x o t̪
+ces-004-019 h o t̪
+ces-004-020 t͡ʃ ɛ s t
+ces-004-021 d͡ʒ ɛ s
+ces-004-022 m ɛ t͡ʃ
+ces-004-023 n ɛ t͡ʃ ʌ s
+ces-004-024 ɲ ɛ t͡ʃ iː
+ces-004-025 l iː z ʌ l
+ces-004-026 r a t̪
+ces-004-027 ɾ a t̪
+ces-004-028 j a
+ces-004-029 t͡ʃ ʌ j
+ces-004-030 d aː l
+ces-004-031 d ʌ l
+ces-004-032 k æ ʃ
+ces-004-033 k ɛ l
+ces-004-034 v iː l a
+ces-004-035 v l a
+ces-004-036 d oː m
+ces-004-037 d o m a
+ces-004-038 n uː ʃ
+ces-004-039 m ʃ
+ces-004-040 k o u r
+ces-004-041 a q̠ s t

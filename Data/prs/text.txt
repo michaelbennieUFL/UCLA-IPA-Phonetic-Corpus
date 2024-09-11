@@ -1,0 +1,103 @@
+prs-000-000 p ɑ k
+prs-000-001 t ɑ ɾ
+prs-000-002 k ɑ ɾ
+prs-000-003 q ɑ ɾ
+prs-000-004 w ɑ p a s
+prs-000-005 k e t ɑ b
+prs-000-006 χ ɑ k i
+prs-000-007 m o q ɑ m
+prs-000-008 s ɑ ʔ ɑ t
+prs-000-009 t͡ʃ ɑ p
+prs-000-010 s ɑ ʔ ɑ t
+prs-000-011 χ ɑ k
+prs-000-012 s ɑ q
+prs-000-014 f e k ɾ
+prs-000-015 w ɑ q t
+prs-000-016 b ɑ ɾ
+prs-000-017 d ɑ ɾ
+prs-000-019 b ɑ b ɑ
+prs-000-020 d ɑ d ɑ
+prs-000-021 ɑ q̠ ɑ ɾ
+prs-000-022 k ɑ b ɑ b
+prs-000-023 b ɑ d
+prs-000-024 s ʌ q̠
+prs-000-025 t͡ʃ ɑ p
+prs-000-026 b ɑ t͡ʃ ə
+prs-000-027 m ɑ t͡ʃ
+prs-000-028 d͡ʒ ɑ n
+prs-000-029 h ʌ d͡ʒ
+prs-000-030 f ɑ ɾ s i
+prs-000-031 s ɑ l
+prs-000-032 ʃ ɑ m
+prs-000-033 χ ɑ m
+prs-000-034 h e f ɑ z a t
+prs-000-035 p e s ɑ ɾ
+prs-000-036 i ʃ ɑ n
+prs-000-037 m e χ ɑ ɾ ɑ m
+prs-000-038 s ɑ f
+prs-000-039 p ɑ s
+prs-000-040 ɑ ʃ
+prs-000-041 b e χ
+prs-000-042 z ɑ t
+prs-000-043 ʒ ɑ n d ɑ ɾ m
+prs-000-044 ʕ ɑ ɾ
+prs-000-046 ɑ ʒ d ə h ɑ ɾ
+prs-000-047 ɑ ʕ ɑ z
+prs-000-048 ɾ ɑ z
+prs-000-049 z ɑ ʕ
+prs-000-050 n ɑ d ɑ ɾ
+prs-000-051 m ɑ d ə ɾ
+prs-000-052 ɑ n ɑ ɾ
+prs-000-053 ʃ ʌ m ɑ
+prs-000-054 ɾ ɑ n
+prs-000-055 ɾ ɑ m
+prs-000-056 ɾ ɑ n q̠
+prs-000-057 ɾ ɑ n d͡ʒ
+prs-000-058 ɑ n q̠ u ɾ
+prs-000-059 t͡ʃ e s m
+prs-000-060 t o χ m
+prs-000-061 h a s n
+prs-000-062 l ɑ l ɑ
+prs-000-063 b ɑ l
+prs-000-064 s e t l
+prs-000-065 ʃ e k l
+prs-000-066 p u l
+prs-000-067 f i l
+prs-000-068 ɾ ɑ h
+prs-000-069 d ɑ ɾ a d
+prs-000-070 s ɑ ɾ
+prs-000-071 p i ɾ
+prs-000-072 f e k ɾ
+prs-000-073 b ɑ h ɾ
+prs-000-075 h e k ɑ j a t
+prs-000-076 w ɑ p a s
+prs-000-077 w ɑ q t
+prs-000-078 h ɑ w ɑ n q̠
+prs-000-080 h ɑ m ɾ ɑ h ɑ n
+prs-000-081 ɾ ɑ h
+prs-000-082 p i ɾ
+prs-000-083 b e h t a ɾ
+prs-000-084 b ɑ ɾ ɑ n
+prs-000-085 p ə d ɑ ɾ
+prs-000-086 b ɑ d
+prs-000-087 b o s ə
+prs-000-088 b u d
+prs-000-090 b i s t
+prs-000-091 i s t q̠ ɑ h
+prs-000-092 n i s t
+prs-000-093 e m ɾ a z
+prs-000-094 ʃ ɛ k l
+prs-000-095 m a n
+prs-000-096 p a n d͡ʒ
+prs-000-097 χ a b a r
+prs-000-098 ɑ m ɑ
+prs-000-099 d ɑ n ɑ
+prs-000-100 b ɑ n k
+prs-000-101 ɑ j ɑ
+prs-000-102 ɾ o z
+prs-000-103 q̠ o ʃ t
+prs-000-104 χ e ɪ l i
+prs-000-105 t͡ʃ ɑ i
+prs-000-106 s a i
+prs-000-107 n ɑ ɞ
+prs-000-108 b u i

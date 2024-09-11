@@ -1,0 +1,22 @@
+kri-000-000 b a n
+kri-000-001 t͡ʃ a p
+kri-000-002 d u
+kri-000-003 f ɛ t
+kri-000-004 ɡ o
+kri-000-005 ɡ͡b a t ɛ
+kri-000-006 h a l a
+kri-000-007 d͡ʒ a b
+kri-000-008 k a ŋ ɡ a
+kri-000-009 k͡p a k͡p a k u ʁ u
+kri-000-010 l ɛ k
+kri-000-011 m a s
+kri-000-012 n a k
+kri-000-013 ɲ a ɲ a m
+kri-000-014 p a n
+kri-000-015 ʁ a k
+kri-000-017 ʃ a k͡p a
+kri-000-018 t a p
+kri-000-020 w a h a l a
+kri-000-021 j a ɡ͡b a
+kri-000-022 k ɔ z i n
+kri-000-023 p l ɛ ʒ ɔ

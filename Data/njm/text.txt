@@ -1,0 +1,34 @@
+njm-006-000 b e
+njm-006-001 p e
+njm-006-002 pʰ e
+njm-006-003 d e
+njm-006-004 t e
+njm-006-005 tʰ e
+njm-006-006 j a
+njm-006-007 t͡ʃ a
+njm-006-008 t sʰ a
+njm-006-009 ɡ a
+njm-006-010 k a
+njm-006-011 kʰ a
+njm-006-012 p f e
+njm-006-013 d z a
+njm-006-014 t s ä
+njm-006-015 m h e
+njm-006-016 m e
+njm-006-017 n h e
+njm-006-018 n e
+njm-006-020 n a
+njm-006-021 ŋ u
+njm-006-022 s e
+njm-006-023 z e
+njm-006-024 v a
+njm-006-025 ʃ a
+njm-006-026 ʒ a
+njm-006-027 h a
+njm-006-028 r h ü
+njm-006-029 r ü
+njm-006-030 r h a
+njm-006-031 r a
+njm-006-032 y h a
+njm-006-033 y a
+njm-006-034 w h e

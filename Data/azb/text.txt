@@ -1,0 +1,60 @@
+azb-000-000 o x m ɑ x
+azb-000-001 t̪ m ɑ x
+azb-000-002 b ɑ ʃ
+azb-000-003 s ɑ t͡ʃ
+azb-000-004 q̠ ɑ ʃ
+azb-000-005 q̠ ɤ ʃ
+azb-000-006 a t̪ʰ
+azb-000-007 ɑ t̪ʰ
+azb-000-008 t a r
+azb-000-009 t̪ o r
+azb-000-010 t̪ ɑ ɹ
+azb-000-011 ʃ o r
+azb-000-012 z o r
+azb-000-013 d z
+azb-000-014 d ʏ z
+azb-000-015 b z
+azb-000-016 ɑ n ɑ
+azb-000-017 ɑ t̪ ɑ
+azb-000-018 ɑ r ɑ
+azb-000-019 kʰ o ɛ ɹ
+azb-000-020 kʰ a ɹ
+azb-000-021 ø z
+azb-000-022 ɑ z
+azb-000-023 d o z
+azb-000-024 q̠ ɤ z
+azb-000-025 o ɹ ɑ d ɑ n
+azb-000-026 h ɑ ɹ d ɑ n
+azb-000-027 b ɹ ɑ d ɑ n
+azb-000-028 ɣ ɤ ɹ m ɑ x
+azb-000-029 ɣ ʏ l m ɑ x
+azb-000-030 s ɑ t͡ʃ m ɑ x
+azb-000-031 ɣ ɑ ʃ m a x
+azb-000-032 ɑ t͡ʃ m ɑ x
+azb-000-033 ʃ i ʃ m ɑ x
+azb-000-034 ʃ ʃ m ɑ x
+azb-000-035 j ɑ t̪ m ɑ x
+azb-000-036 j ɛ ɹ t̪ l̩ m ɑ x
+azb-000-037 j ɛ m ɑ x
+azb-000-038 ɣ ɑ ʃ m ɑ x
+azb-000-039 ɣ ɑ ʃ ɛ t̪ʰ m ɑ x
+azb-000-040 ø l m ɑ x
+azb-000-041 ɑ l m ɑ x
+azb-000-044 b ɑ s m ɑ x
+azb-000-045 b ɑ ʃ m ɑ x
+azb-000-046 ʃ
+azb-000-047 t͡ʃ
+azb-000-048 s ɑ ʃ m ɑ x
+azb-000-049 s ɛ t͡ʃ m a x
+azb-000-050 b ɛ l a
+azb-000-051 ɛ l a
+azb-000-052 j ɑ
+azb-000-053 t̪ʰ ɑ
+azb-000-054 t̪ʰ
+azb-000-056 a t̪ʰ
+azb-000-057 a l
+azb-000-058 n ɑ d i ɹ
+azb-000-059 n ɑ ʃ ɹ
+azb-000-061 q̠ y l
+azb-000-062 i x b ɑ ɹ
+azb-000-063 x t ɑ ɹ

@@ -1,0 +1,69 @@
+bam-000-000 d a a
+bam-000-001 d ã
+bam-000-002 d e
+bam-000-003 d ẽ ẽ
+bam-000-004 d ɛ
+bam-000-005 d ɛ ɛ
+bam-000-006 d i
+bam-000-007 d ĩ ɛ ɛ
+bam-000-008 d ɔ
+bam-000-009 d ɔ̃
+bam-000-010 d o o
+bam-000-011 d õ õ
+bam-000-012 d u u
+bam-000-013 d ũ
+bam-000-014 b ã
+bam-000-015 p ã
+bam-000-017 d ã
+bam-000-018 t ã
+bam-000-019 ɡ ã
+bam-000-020 k ã ã
+bam-000-021 s ã ɡ a a
+bam-000-022 z ã ɡ a
+bam-000-023 s i n ĩ
+bam-000-024 ʃ i ɲ ɛ ɛ
+bam-000-025 t͡ʃ a
+bam-000-026 d͡ʒ ã ã
+bam-000-027 j ã
+bam-000-028 w a
+bam-000-029 n a a
+bam-000-030 m a a
+bam-000-031 ɲ a a
+bam-000-032 ŋ a n a a
+bam-000-033 k ɔ l ɔ ɔ
+bam-000-034 k ɔ r ɔ ɔ
+bam-000-035 b u r u u
+bam-000-036 m b u r u u
+bam-000-037 p ã
+bam-000-038 m p ã ã
+bam-000-039 t ɔ̃ ɔ̃
+bam-000-040 n t ɔ̃ ɔ̃
+bam-000-041 f i r i f i r i i
+bam-000-042 n f i r ĩ f i r ĩ ĩ
+bam-000-043 ɡ ɔ m ɛ ɛ
+bam-000-044 ŋ ɔ m ɔ ɔ
+bam-000-045 ŋ ɡ ɔ n ɔ ɔ
+bam-000-046 k ɔ l i i
+bam-000-047 n k ɔ l i i
+bam-000-048 s a r a a
+bam-000-049 n s a r ã s a r a n ĩ ĩ
+bam-000-050 n z ɛ ɡ ɛ n ɛ ɛ
+bam-000-051 t͡ʃ ɔ̃ k ɔ
+bam-000-052 n ʃ ɔ ɡ ɔ̃ ɔ̃
+bam-000-053 k ɔ r ɔ ɔ
+bam-000-054 k ɔ l ɛ ɛ
+bam-000-055 k o l o o
+bam-000-056 d o l ẽ ẽ
+bam-000-057 d͡ʒ ɛ ɡ ɛ ɛ
+bam-000-058 t͡ʃ ɛ r ɔ ɔ
+bam-000-059 d͡ʒ l e l e e
+bam-000-060 k u n ũ
+bam-000-061 k u n ũ
+bam-000-062 k u n ũ
+bam-000-063 k o
+bam-000-064 k o
+bam-000-065 d ã
+bam-000-066 d ã
+bam-000-067 k a l ã
+bam-000-068 k a l ã ã
+bam-000-069 k ɔ n ɔ

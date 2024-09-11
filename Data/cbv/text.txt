@@ -1,0 +1,63 @@
+cbv-000-000 n æ̟ w æ
+cbv-000-001 y a dⁿ w i l i
+cbv-000-002 k a k w a
+cbv-000-003 ʔ a
+cbv-000-004 ʔ a
+cbv-000-005 p a ʔ
+cbv-000-006 n a ʔ
+cbv-000-007 w ɛ v i t
+cbv-000-008 b ɛ ʔ ɛ̠
+cbv-000-009 m a ʔ
+cbv-000-011 m ɨ
+cbv-000-012 m ɨ
+cbv-000-013 t ɨ̠ k ɨ t
+cbv-000-014 t ɨ
+cbv-000-015 t ɨ
+cbv-000-016 t ɨ h e ʔ
+cbv-000-017 t ɨ h e y
+cbv-000-019 m a ʔ
+cbv-000-020 y e w
+cbv-000-021 w i tⁿ
+cbv-000-022 k ɨ y
+cbv-000-023 æ n o ʔ
+cbv-000-024 w ɛ d u a t
+cbv-000-025 m a y
+cbv-000-026 y e w h a p
+cbv-000-027 c e y
+cbv-000-028 b a k
+cbv-000-029 m a n a̠ ʔ
+cbv-000-030 n ɨ w
+cbv-000-031 n ɛ ʔ
+cbv-000-032 h a h c u
+cbv-000-033 m e n a t
+cbv-000-034 n ɨ k
+cbv-000-035 h a̠ k
+cbv-000-036 h a̠ k c u
+cbv-000-037 m a w d u p
+cbv-000-038 w ɨ k
+cbv-000-039 k i b d a̠ ʔ
+cbv-000-040 m o̠ n i̠ c u
+cbv-000-041 w a w d a ʔ
+cbv-000-042 m o t
+cbv-000-043 w a w y u k
+cbv-000-044 m a̠ w a p a̠
+cbv-000-045 h a k y u k
+cbv-000-046 b ɨ̠ t n a̠ ʔ
+cbv-000-047 w ɨ̠ d̠ a ʔ
+cbv-000-048 t a ʔ
+cbv-000-049 d a dⁿ
+cbv-000-050 m ɨ̠ h n a̠ ʔ
+cbv-000-051 m ɨ̠ h c a̠ d u t
+cbv-000-052 t e y ʔ y a̠ d a̠ ʔ
+cbv-000-053 t e y ʔ y a̠ d a̠ ʔ
+cbv-000-054 t e y ʔ t i b d u p
+cbv-000-055 t e y ʔ c u a
+cbv-000-056 w ɨ n a̠ ʔ
+cbv-000-057 b u d i̠ c a̠ d a̠ ʔ
+cbv-000-058 w ɨ ʔ i̠ d i p
+cbv-000-059 h i t c a̠
+cbv-000-060 h i t t i b d u p
+cbv-000-061 b a k a̠ ʔ c u
+cbv-000-062 ʔ i̠ d i p
+cbv-000-063 m ɛ p
+cbv-000-065 c a a d a̠ ʔ

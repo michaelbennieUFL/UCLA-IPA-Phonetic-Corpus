@@ -1,0 +1,124 @@
+ady-000-001 b a d z a
+ady-000-002 i ə d z a n
+ady-000-003 b a d z a r
+ady-000-004 b ə d z ə
+ady-000-006 t s ə
+ady-000-007 t s ə z a
+ady-000-008 t s a
+ady-000-009 p t s a ə i a
+ady-000-011 u ə t s ə
+ady-000-012 t sʼ
+ady-000-013 t sʼ a
+ady-000-014 t sʼ ə f ə
+ady-000-015 t sʼ ə kʷʼ
+ady-000-017 t ɕ a t sʼ ə
+ady-000-018 m a t sʼ a
+ady-000-019 p t sʼ ə
+ady-000-020 p t sʼ a ʃ χ u a
+ady-000-021 ħ a m t sʼ ə j
+ady-000-022 p t sʼ a ʁ u a p ɬ
+ady-000-024 t s a
+ady-000-025 t s ə ʁ u a
+ady-000-026 t s ə ħ a
+ady-000-027 p t s ə
+ady-000-028 p t s i a ə i a
+ady-000-030 t s ə
+ady-000-031 t s a
+ady-000-032 t s ə z a
+ady-000-033 t s ə ʁ u a
+ady-000-035 i a d ʑ a n
+ady-000-037 b z a d ʑ a
+ady-000-039 t ɕ a t sʼ ə
+ady-000-040 t ɕ ə
+ady-000-041 t u ə t ɕ a n
+ady-000-042 t ɕ a f ə
+ady-000-043 t ɕ ə ɮ
+ady-000-044 t ɕ ə n
+ady-000-045 t ɕʼ
+ady-000-046 t ɕʼ a ɮ a
+ady-000-047 m a t ɕʼ a
+ady-000-048 u ə n a t ɕʼ a
+ady-000-049 pʰ a t ɕʼ a
+ady-000-050 ħ a t ɕʼ a
+ady-000-051 t ɕʼ a s a
+ady-000-052 n a t ɕʼ ə
+ady-000-053 t ɕ
+ady-000-054 t ɕ a ɕ ə
+ady-000-055 t ɕ a m ə
+ady-000-056 t ɕ a t ə
+ady-000-057 t u ə t ɕ a n
+ady-000-058 t ɕ a t ə w
+ady-000-061 ɬ a ɡʷ a n d ʑ a
+ady-000-062 i a b a d ʑ ə ʁ
+ady-000-063 ɬ a ɡʷ a n d ʑ a
+ady-000-064 i a b a d ʑ ə ʁ
+ady-000-066 a qʰ ə ɮ ə n t͡ʃ a
+ady-000-067 t͡ʃ ə ɣ ə
+ady-000-068 t͡ʃ ə i a n
+ady-000-069 a t͡ʃ a
+ady-000-070 t͡ʃ i a n
+ady-000-071 t͡ʃ ə ʔ a
+ady-000-072 t͡ʃʼ
+ady-000-073 t͡ʃʼ a
+ady-000-074 kʷʼ a t͡ʃʼ a
+ady-000-075 ʁʷ t͡ʃʼ ə
+ady-000-076 qʰʷ a n t͡ʃʼ a
+ady-000-077 t͡ʃʼ ə b ʑ
+ady-000-084 t͡ʃ
+ady-000-085 t͡ʃ ə ɣ ə
+ady-000-086 t͡ʃ ə i a n
+ady-000-087 t͡ʃ a n
+ady-000-088 a t͡ʃ a
+ady-000-089 p t͡ʃ a ʁ a
+ady-000-090 p t͡ʃ a
+ady-000-091 p t͡ʃ a p s ə
+ady-000-092 ɮ a n t͡ʃ a
+ady-000-093 a t͡ʃ a
+ady-000-094 a qʰ ə ɮ ə n t͡ʃ a
+ady-000-095 t͡ʃ ə i a n
+ady-000-096 a qʰ ə ɮ ə n t͡ʃ a
+ady-000-097 t͡ʃ ə i a n
+ady-000-098 ɡʷ a pʰ a
+ady-000-099 ɡʷ b ʁ u a
+ady-000-100 ʁ u a ɡʷ
+ady-000-101 ɕ a ɡʷ
+ady-000-102 ɡʷ a ɕ a
+ady-000-103 kʰʷ u ə
+ady-000-104 kʰʷ t sʼ ə
+ady-000-105 kʰʷ p s a
+ady-000-106 kʰʷ a n d a
+ady-000-107 b z a kʰʷ a
+ady-000-110 kʰʷ
+ady-000-111 kʰʷ a t s ə
+ady-000-112 kʰʷ a n ə
+ady-000-113 kʷʼ a t sʼ
+ady-000-114 kʷʼ a t͡ʃʼ a
+ady-000-115 kʷʼ a n
+ady-000-118 tʼ a kʷʼ
+ady-000-119 kʷ a t s ə
+ady-000-121 kʷ ʑ a
+ady-000-122 kʷ a m a
+ady-000-123 kʷ a χ u a
+ady-000-125 kʷ a m a
+ady-000-126 kʷ a m a
+ady-000-128 qʰ ə t s a
+ady-000-129 qʰ a kʷʼ a n
+ady-000-130 m a qʰ a
+ady-000-131 p qʰ ə
+ady-000-132 b ɮ ə p qʰ
+ady-000-133 d a p qʰ ə
+ady-000-134 m a qʰ a
+ady-000-135 d a p qʰ ə
+ady-000-136 qʰʷ a
+ady-000-137 qʷ a
+ady-000-138 qʰʷ ə
+ady-000-139 qʰʷ a i a
+ady-000-141 ʔ a n a
+ady-000-142 ɡʷ ə ɕ ə ʔ a
+ady-000-143 ʔ a z a
+ady-000-144 ʔ a t a
+ady-000-145 ʔ a
+ady-000-146 ʔʷ n t ɕʼ ə b z a
+ady-000-147 ʔʷ a ħ a
+ady-000-148 p χ a u ə ʔʷ
+ady-000-149 ʔʷ a f ə
