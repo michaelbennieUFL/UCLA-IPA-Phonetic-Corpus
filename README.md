@@ -52,12 +52,13 @@ If you find this work helpful, please cite the following works
 
 ```
 
-@misc{bennie2024ipacorpus,
+@misc{bennie2025ipacorpus,
   author       = {Bennie, Michael},
   title        = {UCLA IPA Phonetic Corpus},
-  howpublished = {\url{[https://github.com/用戶名/存儲庫名](https://github.com/michaelbennieUFL/UCLA-IPA-Phonetic-Corpus)}},
-  year         = {2024},
-  note         = {訪問日期：yyyy-mm-dd}
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/michaelbennieUFL/UCLA-IPA-Phonetic-Corpus}},
+  year         = {2025},
 }
 
 @inproceedings{li2021multilingual,
